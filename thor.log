@@ -1,0 +1,2367 @@
+INFO     ActorSystem Administrator startup @ ActorAddr-(T|:1900)
+DEBUG    Who serves directory-server
+DEBUG    Server View  of db-server-1
+DEBUG    Server View  of db-server-2
+DEBUG    Server View  of db-server-3
+DEBUG    Server View  of db-server-4
+DEBUG    Server View  of db-server-5
+DEBUG    Server View  of db-server-6
+DEBUG    Server View  of db-server-7
+DEBUG    Server View  of db-server-8
+DEBUG    Server View  of db-server-9
+DEBUG    Server View  of db-server-0
+DEBUG    View clerk-16
+DEBUG    Server map of clerk-16 updated
+DEBUG    clerk-16 -Sending reads to dict_keys(['db-server-2', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    View clerk-27
+DEBUG    Server map of clerk-27 updated
+DEBUG    clerk-27 -Sending reads to dict_keys(['db-server-2', 'db-server-6', 'db-server-4', 'db-server-7']) 
+DEBUG    View clerk-31
+DEBUG    Server map of clerk-31 updated
+DEBUG    clerk-31 -Sending reads to dict_keys(['db-server-8', 'db-server-6', 'db-server-7', 'db-server-4', 'db-server-1']) 
+DEBUG    View clerk-60
+DEBUG    Server map of clerk-60 updated
+DEBUG    clerk-60 -Sending reads to dict_keys(['db-server-2', 'db-server-6', 'db-server-0', 'db-server-7', 'db-server-4']) 
+DEBUG    View clerk-12
+DEBUG    Server map of clerk-12 updated
+DEBUG    clerk-12 -Sending reads to dict_keys(['db-server-9', 'db-server-6', 'db-server-4']) 
+DEBUG    View clerk-54
+DEBUG    Server map of clerk-54 updated
+DEBUG    clerk-54 -Sending reads to dict_keys(['db-server-8', 'db-server-1', 'db-server-9', 'db-server-2']) 
+DEBUG    View clerk-14
+DEBUG    Server map of clerk-14 updated
+DEBUG    clerk-14 -Sending reads to dict_keys(['db-server-2', 'db-server-0', 'db-server-5', 'db-server-4', 'db-server-3']) 
+DEBUG    View clerk-67
+DEBUG    Server map of clerk-67 updated
+DEBUG    clerk-67 -Sending reads to dict_keys(['db-server-7', 'db-server-0', 'db-server-5', 'db-server-2']) 
+DEBUG    View clerk-4
+DEBUG    Server map of clerk-4 updated
+DEBUG    clerk-4 -Sending reads to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-9']) 
+DEBUG    View clerk-65
+DEBUG    Server map of clerk-65 updated
+DEBUG    clerk-65 -Sending reads to dict_keys(['db-server-4', 'db-server-7', 'db-server-9', 'db-server-0', 'db-server-3']) 
+DEBUG    View clerk-34
+DEBUG    Server map of clerk-34 updated
+DEBUG    clerk-34 -Sending reads to dict_keys(['db-server-7', 'db-server-0', 'db-server-1', 'db-server-6']) 
+DEBUG    View clerk-44
+DEBUG    Server map of clerk-44 updated
+DEBUG    clerk-44 -Sending reads to dict_keys(['db-server-1', 'db-server-4', 'db-server-5', 'db-server-2', 'db-server-6']) 
+DEBUG    View clerk-1
+DEBUG    Server map of clerk-1 updated
+DEBUG    clerk-1 -Sending reads to dict_keys(['db-server-7', 'db-server-8', 'db-server-6', 'db-server-9']) 
+DEBUG    View clerk-17
+DEBUG    Server map of clerk-17 updated
+DEBUG    clerk-17 -Sending reads to dict_keys(['db-server-8', 'db-server-4', 'db-server-5', 'db-server-3']) 
+DEBUG    View clerk-29
+DEBUG    Server map of clerk-29 updated
+DEBUG    clerk-29 -Sending reads to dict_keys(['db-server-7', 'db-server-4', 'db-server-5']) 
+DEBUG    View clerk-47
+DEBUG    Server map of clerk-47 updated
+DEBUG    clerk-47 -Sending reads to dict_keys(['db-server-6', 'db-server-5', 'db-server-0', 'db-server-1']) 
+DEBUG    View clerk-24
+DEBUG    Server map of clerk-24 updated
+DEBUG    clerk-24 -Sending reads to dict_keys(['db-server-1', 'db-server-3', 'db-server-5', 'db-server-7']) 
+DEBUG    View clerk-49
+DEBUG    Server map of clerk-49 updated
+DEBUG    clerk-49 -Sending reads to dict_keys(['db-server-9', 'db-server-2', 'db-server-0', 'db-server-3']) 
+DEBUG    View clerk-32
+DEBUG    Server map of clerk-32 updated
+DEBUG    clerk-32 -Sending reads to dict_keys(['db-server-6', 'db-server-4', 'db-server-5', 'db-server-7']) 
+DEBUG    View clerk-43
+DEBUG    Server map of clerk-43 updated
+DEBUG    clerk-43 -Sending reads to dict_keys(['db-server-2', 'db-server-4', 'db-server-0', 'db-server-6']) 
+DEBUG    View clerk-7
+DEBUG    Server map of clerk-7 updated
+DEBUG    clerk-7 -Sending reads to dict_keys(['db-server-9', 'db-server-7', 'db-server-4']) 
+DEBUG    View clerk-15
+DEBUG    Server map of clerk-15 updated
+DEBUG    clerk-15 -Sending reads to dict_keys(['db-server-2', 'db-server-0', 'db-server-3', 'db-server-4', 'db-server-8']) 
+DEBUG    View clerk-6
+DEBUG    Server map of clerk-6 updated
+DEBUG    clerk-6 -Sending reads to dict_keys(['db-server-0', 'db-server-9', 'db-server-3', 'db-server-4']) 
+DEBUG    View clerk-80
+DEBUG    Server map of clerk-80 updated
+DEBUG    clerk-80 -Sending reads to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-2', 'db-server-3']) 
+DEBUG    View clerk-93
+DEBUG    Server map of clerk-93 updated
+DEBUG    clerk-93 -Sending reads to dict_keys(['db-server-7', 'db-server-0', 'db-server-3']) 
+DEBUG    View clerk-13
+DEBUG    Server map of clerk-13 updated
+DEBUG    clerk-13 -Sending reads to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-9']) 
+DEBUG    View clerk-40
+DEBUG    Server map of clerk-40 updated
+DEBUG    clerk-40 -Sending reads to dict_keys(['db-server-4', 'db-server-1', 'db-server-2', 'db-server-9', 'db-server-0']) 
+DEBUG    View clerk-96
+DEBUG    Server map of clerk-96 updated
+DEBUG    clerk-96 -Sending reads to dict_keys(['db-server-5', 'db-server-2', 'db-server-0', 'db-server-6']) 
+DEBUG    View clerk-39
+DEBUG    Server map of clerk-39 updated
+DEBUG    clerk-39 -Sending reads to dict_keys(['db-server-6', 'db-server-9', 'db-server-5', 'db-server-7', 'db-server-2']) 
+DEBUG    View clerk-28
+DEBUG    Server map of clerk-28 updated
+DEBUG    clerk-28 -Sending reads to dict_keys(['db-server-4', 'db-server-0', 'db-server-8', 'db-server-3']) 
+DEBUG    View clerk-98
+DEBUG    Server map of clerk-98 updated
+DEBUG    clerk-98 -Sending reads to dict_keys(['db-server-0', 'db-server-4', 'db-server-3', 'db-server-8', 'db-server-5']) 
+DEBUG    View clerk-68
+DEBUG    Server map of clerk-68 updated
+DEBUG    clerk-68 -Sending reads to dict_keys(['db-server-6', 'db-server-5', 'db-server-7', 'db-server-1']) 
+DEBUG    View clerk-8
+DEBUG    Server map of clerk-8 updated
+DEBUG    clerk-8 -Sending reads to dict_keys(['db-server-9', 'db-server-3', 'db-server-6', 'db-server-1']) 
+DEBUG    View clerk-18
+DEBUG    Server map of clerk-18 updated
+DEBUG    clerk-18 -Sending reads to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-3']) 
+DEBUG    View clerk-51
+DEBUG    Server map of clerk-51 updated
+DEBUG    clerk-51 -Sending reads to dict_keys(['db-server-0', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    View clerk-10
+DEBUG    Server map of clerk-10 updated
+DEBUG    clerk-10 -Sending reads to dict_keys(['db-server-6', 'db-server-3', 'db-server-1', 'db-server-2', 'db-server-7']) 
+DEBUG    View clerk-84
+DEBUG    Server map of clerk-84 updated
+DEBUG    clerk-84 -Sending reads to dict_keys(['db-server-4', 'db-server-0', 'db-server-6', 'db-server-5', 'db-server-7']) 
+DEBUG    View clerk-3
+DEBUG    Server map of clerk-3 updated
+DEBUG    clerk-3 -Sending reads to dict_keys(['db-server-5', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    View clerk-11
+DEBUG    Server map of clerk-11 updated
+DEBUG    clerk-11 -Sending reads to dict_keys(['db-server-1', 'db-server-6', 'db-server-2', 'db-server-7']) 
+DEBUG    View clerk-92
+DEBUG    Server map of clerk-92 updated
+DEBUG    clerk-92 -Sending reads to dict_keys(['db-server-9', 'db-server-1', 'db-server-4', 'db-server-7']) 
+DEBUG    View clerk-73
+DEBUG    Server map of clerk-73 updated
+DEBUG    clerk-73 -Sending reads to dict_keys(['db-server-2', 'db-server-1', 'db-server-6', 'db-server-7']) 
+DEBUG    View clerk-19
+DEBUG    Server map of clerk-19 updated
+DEBUG    clerk-19 -Sending reads to dict_keys(['db-server-1', 'db-server-4', 'db-server-2', 'db-server-5']) 
+DEBUG    View clerk-62
+DEBUG    Server map of clerk-62 updated
+DEBUG    clerk-62 -Sending reads to dict_keys(['db-server-0', 'db-server-1']) 
+DEBUG    View clerk-64
+DEBUG    Server map of clerk-64 updated
+DEBUG    clerk-64 -Sending reads to dict_keys(['db-server-7', 'db-server-9', 'db-server-4', 'db-server-5']) 
+DEBUG    View clerk-30
+DEBUG    Server map of clerk-30 updated
+DEBUG    clerk-30 -Sending reads to dict_keys(['db-server-9', 'db-server-0', 'db-server-7', 'db-server-8', 'db-server-3']) 
+DEBUG    View clerk-0
+DEBUG    Server map of clerk-0 updated
+DEBUG    clerk-0 -Sending reads to dict_keys(['db-server-2', 'db-server-5', 'db-server-8']) 
+DEBUG    View clerk-22
+DEBUG    Server map of clerk-22 updated
+DEBUG    clerk-22 -Sending reads to dict_keys(['db-server-0', 'db-server-2', 'db-server-8', 'db-server-9', 'db-server-1']) 
+DEBUG    View clerk-35
+DEBUG    Server map of clerk-35 updated
+DEBUG    clerk-35 -Sending reads to dict_keys(['db-server-9', 'db-server-6', 'db-server-4', 'db-server-2']) 
+DEBUG    View clerk-20
+DEBUG    Server map of clerk-20 updated
+DEBUG    clerk-20 -Sending reads to dict_keys(['db-server-7', 'db-server-3', 'db-server-5']) 
+DEBUG    View clerk-91
+DEBUG    Server map of clerk-91 updated
+DEBUG    clerk-91 -Sending reads to dict_keys(['db-server-5', 'db-server-8', 'db-server-1', 'db-server-3']) 
+DEBUG    View clerk-61
+DEBUG    Server map of clerk-61 updated
+DEBUG    clerk-61 -Sending reads to dict_keys(['db-server-3', 'db-server-9', 'db-server-5', 'db-server-6', 'db-server-2']) 
+DEBUG    View clerk-33
+DEBUG    Server map of clerk-33 updated
+DEBUG    clerk-33 -Sending reads to dict_keys(['db-server-3', 'db-server-5', 'db-server-6', 'db-server-1', 'db-server-7']) 
+DEBUG    View clerk-2
+DEBUG    Server map of clerk-2 updated
+DEBUG    clerk-2 -Sending reads to dict_keys(['db-server-8', 'db-server-0', 'db-server-9', 'db-server-6']) 
+DEBUG    View clerk-23
+DEBUG    Server map of clerk-23 updated
+DEBUG    clerk-23 -Sending reads to dict_keys(['db-server-8', 'db-server-6', 'db-server-1', 'db-server-4']) 
+DEBUG    View clerk-25
+DEBUG    Server map of clerk-25 updated
+DEBUG    clerk-25 -Sending reads to dict_keys(['db-server-6', 'db-server-7', 'db-server-9', 'db-server-0']) 
+DEBUG    View clerk-45
+DEBUG    Server map of clerk-45 updated
+DEBUG    clerk-45 -Sending reads to dict_keys(['db-server-4', 'db-server-8', 'db-server-6', 'db-server-0', 'db-server-2']) 
+DEBUG    View clerk-90
+DEBUG    Server map of clerk-90 updated
+DEBUG    clerk-90 -Sending reads to dict_keys(['db-server-5', 'db-server-4', 'db-server-6', 'db-server-2']) 
+DEBUG    View clerk-9
+DEBUG    Server map of clerk-9 updated
+DEBUG    clerk-9 -Sending reads to dict_keys(['db-server-1', 'db-server-5', 'db-server-0']) 
+DEBUG    View clerk-85
+DEBUG    Server map of clerk-85 updated
+DEBUG    clerk-85 -Sending reads to dict_keys(['db-server-8', 'db-server-9', 'db-server-7', 'db-server-5']) 
+DEBUG    View clerk-97
+DEBUG    Server map of clerk-97 updated
+DEBUG    clerk-97 -Sending reads to dict_keys(['db-server-6', 'db-server-1', 'db-server-9']) 
+DEBUG    View clerk-71
+DEBUG    Server map of clerk-71 updated
+DEBUG    clerk-71 -Sending reads to dict_keys(['db-server-1', 'db-server-5', 'db-server-4', 'db-server-6']) 
+DEBUG    View clerk-36
+DEBUG    Server map of clerk-36 updated
+DEBUG    clerk-36 -Sending reads to dict_keys(['db-server-4', 'db-server-9', 'db-server-1', 'db-server-8']) 
+DEBUG    View clerk-99
+DEBUG    Server map of clerk-99 updated
+DEBUG    clerk-99 -Sending reads to dict_keys(['db-server-3', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-1']) 
+DEBUG    View clerk-56
+DEBUG    Server map of clerk-56 updated
+DEBUG    clerk-56 -Sending reads to dict_keys(['db-server-2', 'db-server-4', 'db-server-1']) 
+DEBUG    View clerk-87
+DEBUG    Server map of clerk-87 updated
+DEBUG    clerk-87 -Sending reads to dict_keys(['db-server-7', 'db-server-5', 'db-server-6', 'db-server-0']) 
+DEBUG    View clerk-58
+DEBUG    Server map of clerk-58 updated
+DEBUG    clerk-58 -Sending reads to dict_keys(['db-server-8', 'db-server-0', 'db-server-5', 'db-server-9']) 
+DEBUG    View clerk-75
+DEBUG    Server map of clerk-75 updated
+DEBUG    clerk-75 -Sending reads to dict_keys(['db-server-9', 'db-server-1', 'db-server-2', 'db-server-0', 'db-server-4']) 
+DEBUG    View clerk-95
+DEBUG    Server map of clerk-95 updated
+DEBUG    clerk-95 -Sending reads to dict_keys(['db-server-7', 'db-server-6', 'db-server-0', 'db-server-8']) 
+DEBUG    View clerk-78
+DEBUG    Server map of clerk-78 updated
+DEBUG    clerk-78 -Sending reads to dict_keys(['db-server-8', 'db-server-9', 'db-server-5', 'db-server-0']) 
+DEBUG    View clerk-82
+DEBUG    Server map of clerk-82 updated
+DEBUG    clerk-82 -Sending reads to dict_keys(['db-server-5', 'db-server-1', 'db-server-2']) 
+DEBUG    View clerk-63
+DEBUG    Server map of clerk-63 updated
+DEBUG    clerk-63 -Sending reads to dict_keys(['db-server-1', 'db-server-7', 'db-server-9', 'db-server-5']) 
+DEBUG    View clerk-41
+DEBUG    Server map of clerk-41 updated
+DEBUG    clerk-41 -Sending reads to dict_keys(['db-server-3', 'db-server-6', 'db-server-5', 'db-server-9', 'db-server-8']) 
+DEBUG    View clerk-38
+DEBUG    Server map of clerk-38 updated
+DEBUG    clerk-38 -Sending reads to dict_keys(['db-server-4', 'db-server-5', 'db-server-7', 'db-server-0', 'db-server-2']) 
+DEBUG    View clerk-66
+DEBUG    Server map of clerk-66 updated
+DEBUG    clerk-66 -Sending reads to dict_keys(['db-server-9', 'db-server-0', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    View clerk-26
+DEBUG    Server map of clerk-26 updated
+DEBUG    clerk-26 -Sending reads to dict_keys(['db-server-8', 'db-server-7', 'db-server-5', 'db-server-9', 'db-server-6']) 
+DEBUG    View clerk-81
+DEBUG    Server map of clerk-81 updated
+DEBUG    clerk-81 -Sending reads to dict_keys(['db-server-6', 'db-server-8', 'db-server-4']) 
+DEBUG    View clerk-57
+DEBUG    Server map of clerk-57 updated
+DEBUG    clerk-57 -Sending reads to dict_keys(['db-server-6', 'db-server-2', 'db-server-9', 'db-server-1']) 
+DEBUG    View clerk-42
+DEBUG    Server map of clerk-42 updated
+DEBUG    clerk-42 -Sending reads to dict_keys(['db-server-9', 'db-server-7', 'db-server-5', 'db-server-0']) 
+DEBUG    View clerk-55
+DEBUG    Server map of clerk-55 updated
+DEBUG    clerk-55 -Sending reads to dict_keys(['db-server-2', 'db-server-5', 'db-server-3', 'db-server-1', 'db-server-6']) 
+DEBUG    View clerk-88
+DEBUG    Server map of clerk-88 updated
+DEBUG    clerk-88 -Sending reads to dict_keys(['db-server-4', 'db-server-9', 'db-server-3', 'db-server-7', 'db-server-0']) 
+DEBUG    View clerk-89
+DEBUG    Server map of clerk-89 updated
+DEBUG    clerk-89 -Sending reads to dict_keys(['db-server-1', 'db-server-6', 'db-server-0']) 
+DEBUG    View clerk-72
+DEBUG    Server map of clerk-72 updated
+DEBUG    clerk-72 -Sending reads to dict_keys(['db-server-6', 'db-server-3', 'db-server-1']) 
+DEBUG    View clerk-50
+DEBUG    Server map of clerk-50 updated
+DEBUG    clerk-50 -Sending reads to dict_keys(['db-server-5', 'db-server-6', 'db-server-8', 'db-server-9']) 
+DEBUG    View clerk-48
+DEBUG    Server map of clerk-48 updated
+DEBUG    clerk-48 -Sending reads to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-1']) 
+DEBUG    View clerk-21
+DEBUG    Server map of clerk-21 updated
+DEBUG    clerk-21 -Sending reads to dict_keys(['db-server-6', 'db-server-1', 'db-server-8', 'db-server-0', 'db-server-2']) 
+DEBUG    View clerk-94
+DEBUG    Server map of clerk-94 updated
+DEBUG    clerk-94 -Sending reads to dict_keys(['db-server-6', 'db-server-2', 'db-server-5', 'db-server-3']) 
+DEBUG    View clerk-46
+DEBUG    Server map of clerk-46 updated
+DEBUG    clerk-46 -Sending reads to dict_keys(['db-server-2', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-7']) 
+DEBUG    View clerk-52
+DEBUG    Server map of clerk-52 updated
+DEBUG    clerk-52 -Sending reads to dict_keys(['db-server-8', 'db-server-7', 'db-server-0', 'db-server-1']) 
+DEBUG    View clerk-59
+DEBUG    Server map of clerk-59 updated
+DEBUG    clerk-59 -Sending reads to dict_keys(['db-server-1', 'db-server-9', 'db-server-0', 'db-server-5', 'db-server-4']) 
+DEBUG    View clerk-5
+DEBUG    Server map of clerk-5 updated
+DEBUG    clerk-5 -Sending reads to dict_keys(['db-server-7', 'db-server-3', 'db-server-4', 'db-server-2', 'db-server-0']) 
+DEBUG    View clerk-53
+DEBUG    Server map of clerk-53 updated
+DEBUG    clerk-53 -Sending reads to dict_keys(['db-server-4', 'db-server-2', 'db-server-1', 'db-server-3', 'db-server-7']) 
+DEBUG    View clerk-79
+DEBUG    Server map of clerk-79 updated
+DEBUG    clerk-79 -Sending reads to dict_keys(['db-server-2', 'db-server-0']) 
+DEBUG    View clerk-77
+DEBUG    Server map of clerk-77 updated
+DEBUG    clerk-77 -Sending reads to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-2', 'db-server-1']) 
+DEBUG    View clerk-86
+DEBUG    Server map of clerk-86 updated
+DEBUG    clerk-86 -Sending reads to dict_keys(['db-server-0', 'db-server-9', 'db-server-4', 'db-server-8', 'db-server-7']) 
+DEBUG    View clerk-70
+DEBUG    Server map of clerk-70 updated
+DEBUG    clerk-70 -Sending reads to dict_keys(['db-server-5', 'db-server-4', 'db-server-7']) 
+DEBUG    View clerk-74
+DEBUG    Server map of clerk-74 updated
+DEBUG    clerk-74 -Sending reads to dict_keys(['db-server-8', 'db-server-6', 'db-server-5', 'db-server-1', 'db-server-9']) 
+DEBUG    View clerk-76
+DEBUG    Server map of clerk-76 updated
+DEBUG    clerk-76 -Sending reads to dict_keys(['db-server-9', 'db-server-2', 'db-server-6', 'db-server-3']) 
+DEBUG    db-server-2 received read object request for dict_keys([12, 62])
+DEBUG    db-server-3 received read object request for dict_keys([43])
+DEBUG    db-server-8 received read object request for dict_keys([48])
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    clerk-16 -Read finished for clerk-16-trx-1
+DEBUG    db-server-2 received read object request for dict_keys([72, 22])
+DEBUG    clerk-16 -Sending prepare to dict_keys(['db-server-2', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-6 received read object request for dict_keys([26])
+DEBUG    db-server-8 received read object request for dict_keys([8, 18])
+DEBUG    db-server-2 received read object request for dict_keys([22])
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    db-server-7 received read object request for dict_keys([87])
+DEBUG    clerk-27 -Read finished for clerk-27-trx-1
+DEBUG    clerk-27 -Sending prepare to dict_keys(['db-server-2', 'db-server-6', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-1 received read object request for dict_keys([51])
+DEBUG    db-server-6 received read object request for dict_keys([26])
+DEBUG    db-server-9 received read object request for dict_keys([69])
+DEBUG    db-server-0 received read object request for dict_keys([50])
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    db-server-2 received read object request for dict_keys([82])
+DEBUG    clerk-54 -Read finished for clerk-54-trx-1
+DEBUG    clerk-54 -Sending prepare to dict_keys(['db-server-8', 'db-server-1', 'db-server-9', 'db-server-2']) 
+DEBUG    db-server-4 received read object request for dict_keys([94])
+DEBUG    clerk-60 -Read finished for clerk-60-trx-1
+DEBUG    clerk-60 -Sending prepare to dict_keys(['db-server-2', 'db-server-6', 'db-server-0', 'db-server-7', 'db-server-4']) 
+DEBUG    db-server-8 received read object request for dict_keys([8])
+DEBUG    db-server-9 received read object request for dict_keys([39, 19])
+DEBUG    db-server-4 received read object request for dict_keys([24, 94])
+DEBUG    db-server-6 received read object request for dict_keys([36])
+DEBUG    db-server-7 received read object request for dict_keys([7, 87])
+DEBUG    db-server-6 received read object request for dict_keys([76, 46])
+DEBUG    db-server-7 received read object request for dict_keys([37])
+DEBUG    db-server-4 received read object request for dict_keys([64])
+DEBUG    clerk-12 -Read finished for clerk-12-trx-1
+DEBUG    clerk-12 -Sending prepare to dict_keys(['db-server-9', 'db-server-6', 'db-server-4']) 
+DEBUG    db-server-1 received read object request for dict_keys([1])
+DEBUG    db-server-7 received read object request for dict_keys([27])
+DEBUG    db-server-0 received read object request for dict_keys([40])
+DEBUG    db-server-2 received read object request for dict_keys([12])
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    db-server-4 received read object request for dict_keys([44])
+DEBUG    db-server-1 received read object request for dict_keys([61])
+DEBUG    db-server-4 received read object request for dict_keys([34])
+DEBUG    db-server-9 received read object request for dict_keys([99])
+DEBUG    clerk-4 -Read finished for clerk-4-trx-1
+DEBUG    clerk-4 -Sending prepare to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-9']) 
+DEBUG    db-server-5 received read object request for dict_keys([55])
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-7 received read object request for dict_keys([67, 7])
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-1 received read object request for dict_keys([91])
+DEBUG    clerk-31 -Read finished for clerk-31-trx-1
+DEBUG    db-server-9 received read object request for dict_keys([79])
+DEBUG    clerk-31 -Sending prepare to dict_keys(['db-server-8', 'db-server-6', 'db-server-7', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-2 received read object request for dict_keys([62])
+DEBUG    View clerk-83
+DEBUG    Server map of clerk-83 updated
+DEBUG    clerk-83 -Sending reads to dict_keys(['db-server-3', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-0 received read object request for dict_keys([10])
+DEBUG    db-server-8 received read object request for dict_keys([8, 28])
+DEBUG    db-server-7 received read object request for dict_keys([37, 77])
+DEBUG    db-server-6 received read object request for dict_keys([66])
+DEBUG    clerk-34 -Read finished for clerk-34-trx-1
+DEBUG    clerk-34 -Sending prepare to dict_keys(['db-server-7', 'db-server-0', 'db-server-1', 'db-server-6']) 
+DEBUG    db-server-6 received read object request for dict_keys([26])
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-1 received read object request for dict_keys([41])
+DEBUG    db-server-6 received read object request for dict_keys([86])
+DEBUG    db-server-3 received read object request for dict_keys([73])
+DEBUG    clerk-44 -Read finished for clerk-44-trx-1
+DEBUG    clerk-14 -Read finished for clerk-14-trx-1
+DEBUG    clerk-44 -Sending prepare to dict_keys(['db-server-1', 'db-server-4', 'db-server-5', 'db-server-2', 'db-server-6']) 
+DEBUG    clerk-14 -Sending prepare to dict_keys(['db-server-2', 'db-server-0', 'db-server-5', 'db-server-4', 'db-server-3']) 
+DEBUG    db-server-2 received read object request for dict_keys([72, 12])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-0 received read object request for dict_keys([80])
+DEBUG    db-server-8 received read object request for dict_keys([48])
+DEBUG    db-server-4 received read object request for dict_keys([44])
+DEBUG    db-server-9 received read object request for dict_keys([19])
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    clerk-65 -Read finished for clerk-65-trx-1
+DEBUG    db-server-6 received read object request for dict_keys([66])
+DEBUG    clerk-65 -Sending prepare to dict_keys(['db-server-4', 'db-server-7', 'db-server-9', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-5 received read object request for dict_keys([65, 95])
+DEBUG    db-server-9 received read object request for dict_keys([9, 59])
+DEBUG    db-server-3 received read object request for dict_keys([53, 93])
+DEBUG    db-server-6 received read object request for dict_keys([6, 26])
+DEBUG    db-server-2 received read object request for dict_keys([62])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    clerk-67 -Read finished for clerk-67-trx-1
+DEBUG    clerk-67 -Sending prepare to dict_keys(['db-server-7', 'db-server-0', 'db-server-5', 'db-server-2']) 
+DEBUG    db-server-7 received read object request for dict_keys([47, 57])
+DEBUG    db-server-5 received read object request for dict_keys([65])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-0 received read object request for dict_keys([40])
+DEBUG    db-server-2 received read object request for dict_keys([32])
+DEBUG    db-server-7 received read object request for dict_keys([97, 47])
+DEBUG    db-server-0 received read object request for dict_keys([40, 80])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-3 received read object request for dict_keys([73])
+DEBUG    clerk-17 -Read finished for clerk-17-trx-1
+DEBUG    clerk-17 -Sending prepare to dict_keys(['db-server-8', 'db-server-4', 'db-server-5', 'db-server-3']) 
+DEBUG    db-server-7 received read object request for dict_keys([17, 57])
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    clerk-7 -Read finished for clerk-7-trx-1
+DEBUG    clerk-7 -Sending prepare to dict_keys(['db-server-9', 'db-server-7', 'db-server-4']) 
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-0 received read object request for dict_keys([30, 90])
+DEBUG    db-server-0 received read object request for dict_keys([80])
+DEBUG    db-server-7 received read object request for dict_keys([17])
+DEBUG    db-server-5 received read object request for dict_keys([75, 95])
+DEBUG    clerk-29 -Read finished for clerk-29-trx-1
+DEBUG    clerk-29 -Sending prepare to dict_keys(['db-server-7', 'db-server-4', 'db-server-5']) 
+DEBUG    db-server-5 received read object request for dict_keys([25])
+DEBUG    db-server-9 received read object request for dict_keys([89])
+DEBUG    clerk-1 -Read finished for clerk-1-trx-1
+DEBUG    clerk-1 -Sending prepare to dict_keys(['db-server-7', 'db-server-8', 'db-server-6', 'db-server-9']) 
+DEBUG    db-server-0 received read object request for dict_keys([50, 20])
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-32 -Read finished for clerk-32-trx-1
+DEBUG    clerk-32 -Sending prepare to dict_keys(['db-server-6', 'db-server-4', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-9 received read object request for dict_keys([69])
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    clerk-93 -Read finished for clerk-93-trx-1
+DEBUG    clerk-93 -Sending prepare to dict_keys(['db-server-7', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    clerk-24 -Read finished for clerk-24-trx-1
+DEBUG    clerk-24 -Sending prepare to dict_keys(['db-server-1', 'db-server-3', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    db-server-6 received read object request for dict_keys([86])
+DEBUG    clerk-43 -Read finished for clerk-43-trx-1
+DEBUG    clerk-43 -Sending prepare to dict_keys(['db-server-2', 'db-server-4', 'db-server-0', 'db-server-6']) 
+DEBUG    db-server-2 received read object request for dict_keys([2, 22])
+DEBUG    db-server-3 received read object request for dict_keys([53])
+DEBUG    clerk-49 -Read finished for clerk-49-trx-1
+DEBUG    clerk-49 -Sending prepare to dict_keys(['db-server-9', 'db-server-2', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-2 received read object request for dict_keys([2])
+DEBUG    db-server-1 received read object request for dict_keys([21])
+DEBUG    db-server-5 received read object request for dict_keys([65])
+DEBUG    View clerk-37
+DEBUG    Server map of clerk-37 updated
+DEBUG    clerk-37 -Sending reads to dict_keys(['db-server-2', 'db-server-7', 'db-server-6', 'db-server-9']) 
+DEBUG    db-server-5 received read object request for dict_keys([25])
+DEBUG    db-server-0 received read object request for dict_keys([90])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-1 received read object request for dict_keys([91])
+DEBUG    clerk-47 -Read finished for clerk-47-trx-1
+DEBUG    clerk-47 -Sending prepare to dict_keys(['db-server-6', 'db-server-5', 'db-server-0', 'db-server-1']) 
+DEBUG    db-server-2 received read object request for dict_keys([32])
+DEBUG    db-server-3 received read object request for dict_keys([53])
+DEBUG    db-server-2 received read object request for dict_keys([32, 82])
+DEBUG    db-server-6 received read object request for dict_keys([26])
+DEBUG    db-server-0 received read object request for dict_keys([50, 20])
+DEBUG    db-server-2 received read object request for dict_keys([72])
+DEBUG    db-server-0 received read object request for dict_keys([60])
+DEBUG    db-server-0 received read object request for dict_keys([60])
+DEBUG    db-server-6 received read object request for dict_keys([96, 6])
+DEBUG    db-server-8 received read object request for dict_keys([28])
+DEBUG    db-server-4 received read object request for dict_keys([94])
+DEBUG    clerk-6 -Read finished for clerk-6-trx-1
+DEBUG    clerk-6 -Sending prepare to dict_keys(['db-server-0', 'db-server-9', 'db-server-3', 'db-server-4']) 
+DEBUG    View clerk-69
+DEBUG    Server map of clerk-69 updated
+DEBUG    clerk-69 -Sending reads to dict_keys(['db-server-8', 'db-server-3', 'db-server-5', 'db-server-4']) 
+DEBUG    db-server-9 received read object request for dict_keys([49])
+DEBUG    db-server-3 received read object request for dict_keys([73])
+DEBUG    clerk-80 -Read finished for clerk-80-trx-1
+DEBUG    clerk-80 -Sending prepare to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-2', 'db-server-3']) 
+DEBUG    db-server-4 received read object request for dict_keys([64])
+DEBUG    db-server-9 received read object request for dict_keys([79])
+DEBUG    db-server-5 received read object request for dict_keys([55])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-3 received read object request for dict_keys([73])
+DEBUG    db-server-0 received read object request for dict_keys([10])
+DEBUG    db-server-9 received read object request for dict_keys([99])
+DEBUG    clerk-13 -Read finished for clerk-13-trx-1
+DEBUG    clerk-13 -Sending prepare to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-9']) 
+DEBUG    db-server-7 received read object request for dict_keys([47])
+DEBUG    db-server-9 received read object request for dict_keys([9])
+DEBUG    db-server-0 received read object request for dict_keys([90])
+DEBUG    clerk-40 -Read finished for clerk-40-trx-1
+DEBUG    clerk-40 -Sending prepare to dict_keys(['db-server-4', 'db-server-1', 'db-server-2', 'db-server-9', 'db-server-0']) 
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-6 received read object request for dict_keys([16])
+DEBUG    db-server-8 received read object request for dict_keys([38])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-3 received read object request for dict_keys([73])
+DEBUG    db-server-3 received read object request for dict_keys([63])
+DEBUG    db-server-2 received read object request for dict_keys([12])
+DEBUG    db-server-8 received read object request for dict_keys([68])
+DEBUG    clerk-15 -Read finished for clerk-15-trx-1
+DEBUG    clerk-15 -Sending prepare to dict_keys(['db-server-2', 'db-server-0', 'db-server-3', 'db-server-4', 'db-server-8']) 
+DEBUG    db-server-3 received read object request for dict_keys([63])
+DEBUG    clerk-28 -Read finished for clerk-28-trx-1
+DEBUG    clerk-28 -Sending prepare to dict_keys(['db-server-4', 'db-server-0', 'db-server-8', 'db-server-3']) 
+DEBUG    db-server-5 received read object request for dict_keys([25])
+DEBUG    db-server-6 received read object request for dict_keys([96, 66])
+DEBUG    db-server-3 received read object request for dict_keys([23])
+DEBUG    db-server-2 received read object request for dict_keys([2, 12])
+DEBUG    db-server-0 received read object request for dict_keys([40])
+DEBUG    db-server-1 received read object request for dict_keys([41])
+DEBUG    db-server-1 received read object request for dict_keys([21])
+DEBUG    db-server-6 received read object request for dict_keys([56])
+DEBUG    db-server-5 received read object request for dict_keys([35, 85])
+DEBUG    db-server-6 received read object request for dict_keys([86])
+DEBUG    clerk-96 -Read finished for clerk-96-trx-1
+DEBUG    clerk-96 -Sending prepare to dict_keys(['db-server-5', 'db-server-2', 'db-server-0', 'db-server-6']) 
+DEBUG    db-server-9 received read object request for dict_keys([19, 29])
+DEBUG    db-server-8 received read object request for dict_keys([28])
+DEBUG    db-server-9 received read object request for dict_keys([9])
+DEBUG    db-server-0 received read object request for dict_keys([50])
+DEBUG    db-server-5 received read object request for dict_keys([75, 55])
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    db-server-3 received read object request for dict_keys([33])
+DEBUG    db-server-8 received read object request for dict_keys([98])
+DEBUG    db-server-6 received read object request for dict_keys([36])
+DEBUG    clerk-0 -Read finished for clerk-0-trx-1
+DEBUG    clerk-0 -Sending prepare to dict_keys(['db-server-2', 'db-server-5', 'db-server-8']) 
+DEBUG    db-server-1 received read object request for dict_keys([21])
+DEBUG    db-server-1 received read object request for dict_keys([81])
+DEBUG    clerk-68 -Read finished for clerk-68-trx-1
+DEBUG    clerk-68 -Sending prepare to dict_keys(['db-server-6', 'db-server-5', 'db-server-7', 'db-server-1']) 
+DEBUG    db-server-2 received read object request for dict_keys([42, 22])
+DEBUG    db-server-2 received read object request for dict_keys([92, 62])
+DEBUG    db-server-8 received read object request for dict_keys([78])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-2 received read object request for dict_keys([82])
+DEBUG    clerk-39 -Read finished for clerk-39-trx-1
+DEBUG    clerk-39 -Sending prepare to dict_keys(['db-server-6', 'db-server-9', 'db-server-5', 'db-server-7', 'db-server-2']) 
+DEBUG    db-server-0 received read object request for dict_keys([100, 80, 20, 90])
+DEBUG    db-server-4 received read object request for dict_keys([94])
+DEBUG    db-server-5 received read object request for dict_keys([95])
+DEBUG    clerk-98 -Read finished for clerk-98-trx-1
+DEBUG    clerk-98 -Sending prepare to dict_keys(['db-server-0', 'db-server-4', 'db-server-3', 'db-server-8', 'db-server-5']) 
+DEBUG    db-server-7 received read object request for dict_keys([27])
+DEBUG    db-server-7 received read object request for dict_keys([77, 27])
+DEBUG    db-server-4 received read object request for dict_keys([74])
+DEBUG    db-server-1 received read object request for dict_keys([1, 91])
+DEBUG    db-server-1 received read object request for dict_keys([31])
+DEBUG    db-server-1 received read object request for dict_keys([21])
+DEBUG    clerk-62 -Read finished for clerk-62-trx-1
+DEBUG    clerk-62 -Sending prepare to dict_keys(['db-server-0', 'db-server-1']) 
+DEBUG    db-server-0 received read object request for dict_keys([10])
+DEBUG    db-server-6 received read object request for dict_keys([46])
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    clerk-8 -Read finished for clerk-8-trx-1
+DEBUG    clerk-8 -Sending prepare to dict_keys(['db-server-9', 'db-server-3', 'db-server-6', 'db-server-1']) 
+DEBUG    db-server-5 received read object request for dict_keys([5])
+DEBUG    db-server-9 received read object request for dict_keys([39])
+DEBUG    db-server-9 received read object request for dict_keys([79])
+DEBUG    clerk-51 -Read finished for clerk-51-trx-1
+DEBUG    clerk-51 -Sending prepare to dict_keys(['db-server-0', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    db-server-2 received read object request for dict_keys([52])
+DEBUG    db-server-4 received read object request for dict_keys([4])
+DEBUG    db-server-2 received read object request for dict_keys([22])
+DEBUG    db-server-7 received read object request for dict_keys([47, 57, 27])
+DEBUG    db-server-4 received read object request for dict_keys([44])
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    db-server-2 received read object request for dict_keys([12])
+DEBUG    db-server-9 received read object request for dict_keys([39, 29])
+DEBUG    db-server-8 received read object request for dict_keys([28])
+DEBUG    db-server-8 received read object request for dict_keys([8])
+DEBUG    db-server-7 received read object request for dict_keys([87])
+DEBUG    clerk-10 -Read finished for clerk-10-trx-1
+DEBUG    clerk-10 -Sending prepare to dict_keys(['db-server-6', 'db-server-3', 'db-server-1', 'db-server-2', 'db-server-7']) 
+DEBUG    db-server-3 received read object request for dict_keys([13])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-9 received read object request for dict_keys([59])
+DEBUG    clerk-64 -Read finished for clerk-64-trx-1
+DEBUG    db-server-1 received read object request for dict_keys([81, 51])
+DEBUG    db-server-3 received read object request for dict_keys([53])
+DEBUG    clerk-64 -Sending prepare to dict_keys(['db-server-7', 'db-server-9', 'db-server-4', 'db-server-5']) 
+DEBUG    db-server-7 received read object request for dict_keys([87])
+DEBUG    clerk-84 -Read finished for clerk-84-trx-1
+DEBUG    clerk-84 -Sending prepare to dict_keys(['db-server-4', 'db-server-0', 'db-server-6', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-8 received read object request for dict_keys([8, 88])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-5 received read object request for dict_keys([55])
+DEBUG    db-server-6 received read object request for dict_keys([36])
+DEBUG    clerk-20 -Read finished for clerk-20-trx-1
+DEBUG    clerk-20 -Sending prepare to dict_keys(['db-server-7', 'db-server-3', 'db-server-5']) 
+DEBUG    db-server-3 received read object request for dict_keys([63])
+DEBUG    clerk-18 -Read finished for clerk-18-trx-1
+DEBUG    clerk-18 -Sending prepare to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-3 received read object request for dict_keys([33])
+DEBUG    db-server-4 received read object request for dict_keys([64])
+DEBUG    db-server-6 received read object request for dict_keys([6])
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-9 received read object request for dict_keys([19])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-8 received read object request for dict_keys([38])
+DEBUG    db-server-8 received read object request for dict_keys([18, 88])
+DEBUG    db-server-9 received read object request for dict_keys([79])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-9 received read object request for dict_keys([99])
+DEBUG    clerk-3 -Read finished for clerk-3-trx-1
+DEBUG    clerk-3 -Sending prepare to dict_keys(['db-server-5', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    db-server-6 received read object request for dict_keys([66])
+DEBUG    db-server-7 received read object request for dict_keys([7])
+DEBUG    db-server-8 received read object request for dict_keys([28])
+DEBUG    db-server-6 received read object request for dict_keys([46])
+DEBUG    db-server-5 received read object request for dict_keys([5, 55])
+DEBUG    db-server-9 received read object request for dict_keys([69, 29])
+DEBUG    db-server-6 received read object request for dict_keys([6])
+DEBUG    db-server-6 received read object request for dict_keys([56])
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    clerk-11 -Read finished for clerk-11-trx-1
+DEBUG    clerk-11 -Sending prepare to dict_keys(['db-server-1', 'db-server-6', 'db-server-2', 'db-server-7']) 
+DEBUG    db-server-1 received read object request for dict_keys([11, 51])
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-92 -Read finished for clerk-92-trx-1
+DEBUG    clerk-92 -Sending prepare to dict_keys(['db-server-9', 'db-server-1', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    db-server-9 received read object request for dict_keys([39, 49])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-7 received read object request for dict_keys([77])
+DEBUG    db-server-1 received read object request for dict_keys([41, 21])
+DEBUG    db-server-8 received read object request for dict_keys([38])
+DEBUG    db-server-1 received read object request for dict_keys([1, 61])
+DEBUG    db-server-6 received read object request for dict_keys([46])
+DEBUG    db-server-5 received read object request for dict_keys([25])
+DEBUG    db-server-4 received read object request for dict_keys([24])
+DEBUG    db-server-9 received read object request for dict_keys([39, 59])
+DEBUG    clerk-97 -Read finished for clerk-97-trx-1
+DEBUG    clerk-97 -Sending prepare to dict_keys(['db-server-6', 'db-server-1', 'db-server-9']) 
+DEBUG    db-server-0 received read object request for dict_keys([80, 60])
+DEBUG    clerk-9 -Read finished for clerk-9-trx-1
+DEBUG    clerk-9 -Sending prepare to dict_keys(['db-server-1', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-8 received read object request for dict_keys([18])
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    clerk-30 -Read finished for clerk-30-trx-1
+DEBUG    clerk-30 -Sending prepare to dict_keys(['db-server-9', 'db-server-0', 'db-server-7', 'db-server-8', 'db-server-3']) 
+DEBUG    db-server-9 received read object request for dict_keys([19])
+DEBUG    db-server-5 received read object request for dict_keys([55])
+DEBUG    db-server-7 received read object request for dict_keys([7, 47])
+DEBUG    db-server-9 received read object request for dict_keys([49])
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    db-server-3 received read object request for dict_keys([33])
+DEBUG    db-server-1 received read object request for dict_keys([81, 61])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-73 -Read finished for clerk-73-trx-1
+DEBUG    clerk-73 -Sending prepare to dict_keys(['db-server-2', 'db-server-1', 'db-server-6', 'db-server-7']) 
+DEBUG    db-server-8 received read object request for dict_keys([18])
+DEBUG    db-server-1 received read object request for dict_keys([21])
+DEBUG    db-server-1 received read object request for dict_keys([11])
+DEBUG    db-server-5 received read object request for dict_keys([55, 95])
+DEBUG    db-server-6 received read object request for dict_keys([56])
+DEBUG    db-server-7 received read object request for dict_keys([67, 7])
+DEBUG    db-server-2 received read object request for dict_keys([32])
+DEBUG    db-server-9 received read object request for dict_keys([9])
+DEBUG    db-server-0 received read object request for dict_keys([90])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-3 received read object request for dict_keys([3])
+DEBUG    db-server-9 received read object request for dict_keys([99, 59])
+DEBUG    db-server-5 received read object request for dict_keys([15])
+DEBUG    clerk-19 -Read finished for clerk-19-trx-1
+DEBUG    clerk-19 -Sending prepare to dict_keys(['db-server-1', 'db-server-4', 'db-server-2', 'db-server-5']) 
+DEBUG    db-server-5 received read object request for dict_keys([5])
+DEBUG    db-server-8 received read object request for dict_keys([78])
+DEBUG    db-server-7 received read object request for dict_keys([37, 17])
+DEBUG    db-server-2 received read object request for dict_keys([12, 92])
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    db-server-5 received read object request for dict_keys([55])
+DEBUG    db-server-9 received read object request for dict_keys([19])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-2 received read object request for dict_keys([2])
+DEBUG    db-server-6 received read object request for dict_keys([76])
+DEBUG    db-server-6 received read object request for dict_keys([16])
+DEBUG    db-server-6 received read object request for dict_keys([96, 6])
+DEBUG    db-server-3 received read object request for dict_keys([43])
+DEBUG    db-server-1 received read object request for dict_keys([51, 61, 31])
+DEBUG    db-server-4 received read object request for dict_keys([14])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-4 received read object request for dict_keys([24])
+DEBUG    db-server-4 received read object request for dict_keys([4])
+DEBUG    db-server-2 received read object request for dict_keys([32])
+DEBUG    clerk-82 -Read finished for clerk-82-trx-1
+DEBUG    clerk-82 -Sending prepare to dict_keys(['db-server-5', 'db-server-1', 'db-server-2']) 
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    clerk-22 -Read finished for clerk-22-trx-1
+DEBUG    clerk-22 -Sending prepare to dict_keys(['db-server-0', 'db-server-2', 'db-server-8', 'db-server-9', 'db-server-1']) 
+DEBUG    db-server-9 received read object request for dict_keys([69, 29])
+DEBUG    db-server-1 received read object request for dict_keys([41, 91])
+DEBUG    clerk-56 -Read finished for clerk-56-trx-1
+DEBUG    clerk-56 -Sending prepare to dict_keys(['db-server-2', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-5 received read object request for dict_keys([25])
+DEBUG    db-server-8 received read object request for dict_keys([8])
+DEBUG    db-server-2 received read object request for dict_keys([22])
+DEBUG    db-server-3 received read object request for dict_keys([43])
+DEBUG    db-server-9 received read object request for dict_keys([59])
+DEBUG    db-server-3 received read object request for dict_keys([63])
+DEBUG    clerk-91 -Read finished for clerk-91-trx-1
+DEBUG    clerk-91 -Sending prepare to dict_keys(['db-server-5', 'db-server-8', 'db-server-1', 'db-server-3']) 
+DEBUG    db-server-6 received read object request for dict_keys([36, 56])
+DEBUG    db-server-9 received read object request for dict_keys([29])
+DEBUG    db-server-5 received read object request for dict_keys([5])
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    db-server-7 received read object request for dict_keys([37])
+DEBUG    db-server-7 received read object request for dict_keys([57])
+DEBUG    db-server-7 received read object request for dict_keys([27])
+DEBUG    db-server-6 received read object request for dict_keys([76, 26])
+DEBUG    db-server-5 received read object request for dict_keys([85])
+DEBUG    db-server-1 received read object request for dict_keys([1])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-3 received read object request for dict_keys([43, 93])
+DEBUG    db-server-5 received read object request for dict_keys([45])
+DEBUG    db-server-6 received read object request for dict_keys([36])
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    clerk-72 -Read finished for clerk-72-trx-1
+DEBUG    clerk-72 -Sending prepare to dict_keys(['db-server-6', 'db-server-3', 'db-server-1']) 
+DEBUG    db-server-0 received read object request for dict_keys([40])
+DEBUG    db-server-8 received read object request for dict_keys([58, 78])
+DEBUG    db-server-6 received read object request for dict_keys([46])
+DEBUG    db-server-6 received read object request for dict_keys([66, 26])
+DEBUG    db-server-6 received read object request for dict_keys([16, 26])
+DEBUG    db-server-2 received read object request for dict_keys([72])
+DEBUG    clerk-35 -Read finished for clerk-35-trx-1
+DEBUG    clerk-35 -Sending prepare to dict_keys(['db-server-9', 'db-server-6', 'db-server-4', 'db-server-2']) 
+DEBUG    db-server-2 received read object request for dict_keys([12])
+DEBUG    db-server-4 received read object request for dict_keys([94])
+DEBUG    db-server-6 received read object request for dict_keys([56])
+DEBUG    clerk-81 -Read finished for clerk-81-trx-1
+DEBUG    clerk-81 -Sending prepare to dict_keys(['db-server-6', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-6 received read object request for dict_keys([96])
+DEBUG    clerk-2 -Read finished for clerk-2-trx-1
+DEBUG    clerk-2 -Sending prepare to dict_keys(['db-server-8', 'db-server-0', 'db-server-9', 'db-server-6']) 
+DEBUG    db-server-0 received read object request for dict_keys([80, 30])
+DEBUG    clerk-89 -Read finished for clerk-89-trx-1
+DEBUG    clerk-89 -Sending prepare to dict_keys(['db-server-1', 'db-server-6', 'db-server-0']) 
+DEBUG    db-server-1 received read object request for dict_keys([51])
+DEBUG    db-server-0 received read object request for dict_keys([70])
+DEBUG    db-server-8 received read object request for dict_keys([88, 58])
+DEBUG    db-server-4 received read object request for dict_keys([64, 54])
+DEBUG    db-server-2 received read object request for dict_keys([92])
+DEBUG    clerk-61 -Read finished for clerk-61-trx-1
+DEBUG    clerk-61 -Sending prepare to dict_keys(['db-server-3', 'db-server-9', 'db-server-5', 'db-server-6', 'db-server-2']) 
+DEBUG    db-server-8 received read object request for dict_keys([58])
+DEBUG    db-server-2 received read object request for dict_keys([52])
+DEBUG    db-server-8 received read object request for dict_keys([58])
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-7 received read object request for dict_keys([7])
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    db-server-2 received read object request for dict_keys([72])
+DEBUG    clerk-45 -Read finished for clerk-45-trx-1
+DEBUG    clerk-45 -Sending prepare to dict_keys(['db-server-4', 'db-server-8', 'db-server-6', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-1 received read object request for dict_keys([61])
+DEBUG    db-server-1 received read object request for dict_keys([1])
+DEBUG    db-server-8 received read object request for dict_keys([48])
+DEBUG    db-server-0 received read object request for dict_keys([100])
+DEBUG    clerk-25 -Read finished for clerk-25-trx-1
+DEBUG    clerk-25 -Sending prepare to dict_keys(['db-server-6', 'db-server-7', 'db-server-9', 'db-server-0']) 
+DEBUG    db-server-8 received read object request for dict_keys([18])
+DEBUG    db-server-3 received read object request for dict_keys([53])
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-33 -Read finished for clerk-33-trx-1
+DEBUG    clerk-33 -Sending prepare to dict_keys(['db-server-3', 'db-server-5', 'db-server-6', 'db-server-1', 'db-server-7']) 
+DEBUG    db-server-4 received read object request for dict_keys([74])
+DEBUG    clerk-23 -Read finished for clerk-23-trx-1
+DEBUG    clerk-23 -Sending prepare to dict_keys(['db-server-8', 'db-server-6', 'db-server-1', 'db-server-4']) 
+DEBUG    db-server-4 received read object request for dict_keys([24])
+DEBUG    db-server-9 received read object request for dict_keys([9])
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-7 received read object request for dict_keys([27])
+DEBUG    db-server-0 received read object request for dict_keys([20])
+DEBUG    db-server-5 received read object request for dict_keys([95])
+DEBUG    clerk-85 -Read finished for clerk-85-trx-1
+DEBUG    clerk-85 -Sending prepare to dict_keys(['db-server-8', 'db-server-9', 'db-server-7', 'db-server-5']) 
+DEBUG    db-server-2 received read object request for dict_keys([2, 82, 62])
+DEBUG    db-server-0 received read object request for dict_keys([70, 40])
+DEBUG    db-server-0 received read object request for dict_keys([10])
+DEBUG    db-server-5 received read object request for dict_keys([65])
+DEBUG    db-server-2 received read object request for dict_keys([42])
+DEBUG    db-server-9 received read object request for dict_keys([9, 89])
+DEBUG    db-server-5 received read object request for dict_keys([5, 15])
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    db-server-0 received read object request for dict_keys([100, 30])
+DEBUG    clerk-79 -Read finished for clerk-79-trx-1
+DEBUG    clerk-79 -Sending prepare to dict_keys(['db-server-2', 'db-server-0']) 
+DEBUG    db-server-9 received read object request for dict_keys([39])
+DEBUG    db-server-8 received prepare request clerk-54-trx-1
+DEBUG    db-server-8 Validation successful for clerk-54-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-60-trx-1
+DEBUG    db-server-2 Validation successful for clerk-60-trx-1 - Prepare OK
+DEBUG    db-server-2 received read object request for dict_keys([42])
+DEBUG    db-server-2 received read object request for dict_keys([52])
+DEBUG    clerk-90 -Read finished for clerk-90-trx-1
+DEBUG    clerk-90 -Sending prepare to dict_keys(['db-server-5', 'db-server-4', 'db-server-6', 'db-server-2']) 
+DEBUG    db-server-2 received prepare request clerk-16-trx-1
+DEBUG    db-server-2 Validation successful for clerk-16-trx-1 - Prepare OK
+DEBUG    db-server-4 received read object request for dict_keys([44])
+DEBUG    db-server-4 received read object request for dict_keys([14, 84])
+DEBUG    db-server-6 received prepare request clerk-60-trx-1
+DEBUG    db-server-6 Validation successful for clerk-60-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([46])
+DEBUG    db-server-7 received read object request for dict_keys([67])
+DEBUG    clerk-70 -Read finished for clerk-70-trx-1
+DEBUG    clerk-70 -Sending prepare to dict_keys(['db-server-5', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-8 received read object request for dict_keys([28])
+DEBUG    db-server-1 received prepare request clerk-54-trx-1
+DEBUG    db-server-1 Validation successful for clerk-54-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([10])
+DEBUG    db-server-3 received prepare request clerk-16-trx-1
+DEBUG    db-server-3 Validation successful for clerk-16-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([86])
+DEBUG    clerk-71 -Read finished for clerk-71-trx-1
+DEBUG    clerk-71 -Sending prepare to dict_keys(['db-server-1', 'db-server-5', 'db-server-4', 'db-server-6']) 
+DEBUG    db-server-9 received prepare request clerk-12-trx-1
+DEBUG    db-server-9 Validation successful for clerk-12-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-54-trx-1
+DEBUG    db-server-9 Validation successful for clerk-54-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-27-trx-1
+DEBUG    db-server-2 Validation successful for clerk-27-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-16-trx-1
+DEBUG    db-server-8 Validation successful for clerk-16-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([36])
+DEBUG    db-server-8 received read object request for dict_keys([88])
+DEBUG    clerk-36 -Read finished for clerk-36-trx-1
+DEBUG    clerk-36 -Sending prepare to dict_keys(['db-server-4', 'db-server-9', 'db-server-1', 'db-server-8']) 
+DEBUG    db-server-4 received prepare request clerk-4-trx-1
+DEBUG    db-server-4 Validation successful for clerk-4-trx-1 - Prepare OK
+DEBUG    db-server-4 received read object request for dict_keys([34])
+DEBUG    db-server-8 received prepare request clerk-31-trx-1
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    db-server-8 Validation successful for clerk-31-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-12-trx-1
+DEBUG    db-server-6 Validation successful for clerk-12-trx-1 - Prepare OK
+DEBUG    db-server-8 received read object request for dict_keys([58])
+DEBUG    db-server-6 received prepare request clerk-27-trx-1
+DEBUG    db-server-6 Validation successful for clerk-27-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-65-trx-1
+DEBUG    db-server-4 Validation successful for clerk-65-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-12-trx-1
+DEBUG    db-server-4 Validation successful for clerk-12-trx-1 - Prepare OK
+DEBUG    clerk-12 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-6', 'db-server-4']) 
+DEBUG    db-server-9 received read object request for dict_keys([69])
+DEBUG    clerk-58 -Read finished for clerk-58-trx-1
+DEBUG    clerk-58 -Sending prepare to dict_keys(['db-server-8', 'db-server-0', 'db-server-5', 'db-server-9']) 
+DEBUG    db-server-7 received prepare request clerk-34-trx-1
+DEBUG    db-server-4 received prepare request clerk-27-trx-1
+DEBUG    db-server-7 Validation successful for clerk-34-trx-1 - Prepare OK
+DEBUG    db-server-4 Validation successful for clerk-27-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-4-trx-1
+DEBUG    db-server-7 Validation successful for clerk-4-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-31-trx-1
+DEBUG    db-server-6 Validation successful for clerk-31-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([40])
+DEBUG    db-server-5 received prepare request clerk-4-trx-1
+DEBUG    db-server-2 received prepare request clerk-14-trx-1
+DEBUG    db-server-5 Validation successful for clerk-4-trx-1 - Prepare OK
+DEBUG    db-server-2 Validation successful for clerk-14-trx-1 - Prepare OK
+DEBUG    db-server-8 received read object request for dict_keys([98])
+DEBUG    clerk-95 -Read finished for clerk-95-trx-1
+DEBUG    clerk-95 -Sending prepare to dict_keys(['db-server-7', 'db-server-6', 'db-server-0', 'db-server-8']) 
+DEBUG    db-server-3 received read object request for dict_keys([3, 43])
+DEBUG    db-server-7 received prepare request clerk-31-trx-1
+DEBUG    db-server-7 Validation successful for clerk-31-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-65-trx-1
+DEBUG    db-server-7 Validation successful for clerk-65-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-14-trx-1
+DEBUG    db-server-0 Validation successful for clerk-14-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-34-trx-1
+DEBUG    db-server-0 Validation successful for clerk-34-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-65-trx-1
+DEBUG    db-server-9 Validation successful for clerk-65-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-34-trx-1
+DEBUG    db-server-4 received read object request for dict_keys([44])
+DEBUG    db-server-1 Validation successful for clerk-34-trx-1 - Prepare OK
+DEBUG    clerk-75 -Read finished for clerk-75-trx-1
+DEBUG    clerk-75 -Sending prepare to dict_keys(['db-server-9', 'db-server-1', 'db-server-2', 'db-server-0', 'db-server-4']) 
+DEBUG    db-server-0 received read object request for dict_keys([70, 20])
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    db-server-1 received prepare request clerk-44-trx-1
+DEBUG    db-server-1 Validation successful for clerk-44-trx-1 - Prepare OK
+DEBUG    db-server-2 received read object request for dict_keys([62])
+DEBUG    clerk-83 -Read finished for clerk-83-trx-1
+DEBUG    clerk-83 -Sending prepare to dict_keys(['db-server-3', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-8 received prepare request clerk-17-trx-1
+DEBUG    db-server-8 Validation successful for clerk-17-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-67-trx-1
+DEBUG    db-server-7 Validation successful for clerk-67-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-17-trx-1
+DEBUG    db-server-7 received prepare request clerk-29-trx-1
+DEBUG    db-server-4 Validation successful for clerk-17-trx-1 - Prepare OK
+DEBUG    db-server-7 Validation successful for clerk-29-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-44-trx-1
+DEBUG    db-server-4 Validation successful for clerk-44-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([90])
+DEBUG    clerk-78 -Read finished for clerk-78-trx-1
+DEBUG    clerk-78 -Sending prepare to dict_keys(['db-server-8', 'db-server-9', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-1 received prepare request clerk-24-trx-1
+DEBUG    db-server-1 Validation successful for clerk-24-trx-1 - Prepare OK
+DEBUG    db-server-1 received read object request for dict_keys([91])
+DEBUG    clerk-99 -Read finished for clerk-99-trx-1
+DEBUG    clerk-99 -Sending prepare to dict_keys(['db-server-3', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-7 received prepare request clerk-1-trx-1
+DEBUG    db-server-7 Validation successful for clerk-1-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-29-trx-1
+DEBUG    db-server-4 Validation successful for clerk-29-trx-1 - Prepare OK
+DEBUG    db-server-5 received read object request for dict_keys([75])
+DEBUG    clerk-63 -Read finished for clerk-63-trx-1
+DEBUG    clerk-63 -Sending prepare to dict_keys(['db-server-1', 'db-server-7', 'db-server-9', 'db-server-5']) 
+DEBUG    db-server-0 received prepare request clerk-67-trx-1
+DEBUG    db-server-0 Validation successful for clerk-67-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([80])
+DEBUG    clerk-87 -Read finished for clerk-87-trx-1
+DEBUG    clerk-87 -Sending prepare to dict_keys(['db-server-7', 'db-server-5', 'db-server-6', 'db-server-0']) 
+DEBUG    db-server-2 received prepare request clerk-43-trx-1
+DEBUG    db-server-2 Validation successful for clerk-43-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-67-trx-1
+DEBUG    db-server-5 Validation successful for clerk-67-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-24-trx-1
+DEBUG    db-server-3 Validation successful for clerk-24-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-1-trx-1
+DEBUG    db-server-8 Validation successful for clerk-1-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-24-trx-1
+DEBUG    db-server-5 Validation successful for clerk-24-trx-1 - Prepare OK
+DEBUG    db-server-8 received read object request for dict_keys([58])
+DEBUG    db-server-7 received prepare request clerk-93-trx-1
+DEBUG    db-server-7 Validation successful for clerk-93-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-49-trx-1
+DEBUG    db-server-9 Validation successful for clerk-49-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-1-trx-1
+DEBUG    db-server-4 received prepare request clerk-43-trx-1
+DEBUG    db-server-6 Validation successful for clerk-1-trx-1 - Prepare OK
+DEBUG    db-server-4 Validation successful for clerk-43-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-43-trx-1
+DEBUG    db-server-0 Validation successful for clerk-43-trx-1 - Prepare OK
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    clerk-66 -Read finished for clerk-66-trx-1
+DEBUG    clerk-66 -Sending prepare to dict_keys(['db-server-9', 'db-server-0', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-6 received prepare request clerk-32-trx-1
+DEBUG    db-server-6 Validation successful for clerk-32-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-93-trx-1
+DEBUG    db-server-0 Validation successful for clerk-93-trx-1 - Prepare OK
+DEBUG    db-server-9 received read object request for dict_keys([79])
+DEBUG    db-server-2 received read object request for dict_keys([2])
+DEBUG    db-server-2 received prepare request clerk-49-trx-1
+DEBUG    db-server-2 Validation successful for clerk-49-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-7-trx-1
+DEBUG    db-server-3 received prepare request clerk-93-trx-1
+DEBUG    db-server-9 Validation successful for clerk-7-trx-1 - Prepare OK
+DEBUG    db-server-3 Validation successful for clerk-93-trx-1 - Prepare OK
+DEBUG    clerk-93 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-0 received prepare request clerk-49-trx-1
+DEBUG    db-server-0 Validation successful for clerk-49-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-47-trx-1
+DEBUG    db-server-6 Validation successful for clerk-47-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-32-trx-1
+DEBUG    db-server-4 Validation successful for clerk-32-trx-1 - Prepare OK
+DEBUG    db-server-8 received read object request for dict_keys([98])
+DEBUG    clerk-41 -Read finished for clerk-41-trx-1
+DEBUG    clerk-41 -Sending prepare to dict_keys(['db-server-3', 'db-server-6', 'db-server-5', 'db-server-9', 'db-server-8']) 
+DEBUG    db-server-7 received read object request for dict_keys([7])
+DEBUG    db-server-5 received prepare request clerk-32-trx-1
+DEBUG    db-server-7 received prepare request clerk-7-trx-1
+DEBUG    db-server-5 Validation successful for clerk-32-trx-1 - Prepare OK
+DEBUG    db-server-7 Validation successful for clerk-7-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([36, 16])
+DEBUG    db-server-0 received prepare request clerk-6-trx-1
+DEBUG    db-server-0 Validation successful for clerk-6-trx-1 - Prepare OK
+DEBUG    db-server-1 received read object request for dict_keys([51])
+DEBUG    db-server-4 received prepare request clerk-80-trx-1
+DEBUG    db-server-4 Validation successful for clerk-80-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-47-trx-1
+DEBUG    db-server-4 received prepare request clerk-7-trx-1
+DEBUG    db-server-5 Validation successful for clerk-47-trx-1 - Prepare OK
+DEBUG    clerk-7 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-7', 'db-server-4']) 
+DEBUG    db-server-4 Validation successful for clerk-7-trx-1 - Prepare OK
+DEBUG    db-server-1 received read object request for dict_keys([71])
+DEBUG    clerk-57 -Read finished for clerk-57-trx-1
+DEBUG    clerk-57 -Sending prepare to dict_keys(['db-server-6', 'db-server-2', 'db-server-9', 'db-server-1']) 
+DEBUG    db-server-8 received read object request for dict_keys([8, 88])
+DEBUG    db-server-0 received prepare request clerk-47-trx-1
+DEBUG    db-server-0 Validation successful for clerk-47-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-6-trx-1
+DEBUG    db-server-9 Validation successful for clerk-6-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([56])
+DEBUG    clerk-55 -Read finished for clerk-55-trx-1
+DEBUG    clerk-55 -Sending prepare to dict_keys(['db-server-2', 'db-server-5', 'db-server-3', 'db-server-1', 'db-server-6']) 
+DEBUG    db-server-4 received prepare request clerk-40-trx-1
+DEBUG    db-server-4 Validation successful for clerk-40-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-80-trx-1
+DEBUG    db-server-7 Validation successful for clerk-80-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-6-trx-1
+DEBUG    db-server-3 Validation successful for clerk-6-trx-1 - Prepare OK
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    db-server-2 received prepare request clerk-13-trx-1
+DEBUG    db-server-2 Validation successful for clerk-13-trx-1 - Prepare OK
+DEBUG    db-server-3 received read object request for dict_keys([33])
+DEBUG    db-server-0 received read object request for dict_keys([70])
+DEBUG    db-server-2 received prepare request clerk-15-trx-1
+DEBUG    db-server-5 received prepare request clerk-80-trx-1
+DEBUG    db-server-2 Validation successful for clerk-15-trx-1 - Prepare OK
+DEBUG    db-server-5 Validation successful for clerk-80-trx-1 - Prepare OK
+DEBUG    db-server-5 received read object request for dict_keys([35])
+DEBUG    db-server-1 received prepare request clerk-40-trx-1
+DEBUG    db-server-1 Validation successful for clerk-40-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([100])
+DEBUG    clerk-88 -Read finished for clerk-88-trx-1
+DEBUG    clerk-88 -Sending prepare to dict_keys(['db-server-4', 'db-server-9', 'db-server-3', 'db-server-7', 'db-server-0']) 
+DEBUG    db-server-5 received prepare request clerk-13-trx-1
+DEBUG    db-server-5 Validation successful for clerk-13-trx-1 - Prepare OK
+DEBUG    db-server-2 received read object request for dict_keys([82])
+DEBUG    clerk-38 -Read finished for clerk-38-trx-1
+DEBUG    clerk-38 -Sending prepare to dict_keys(['db-server-4', 'db-server-5', 'db-server-7', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-9 received read object request for dict_keys([39])
+DEBUG    db-server-4 received prepare request clerk-28-trx-1
+DEBUG    db-server-4 Validation successful for clerk-28-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-40-trx-1
+DEBUG    db-server-2 Validation successful for clerk-40-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-15-trx-1
+DEBUG    db-server-0 Validation successful for clerk-15-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-68-trx-1
+DEBUG    db-server-6 Validation successful for clerk-68-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-13-trx-1
+DEBUG    db-server-2 received prepare request clerk-0-trx-1
+DEBUG    db-server-0 Validation successful for clerk-13-trx-1 - Prepare OK
+DEBUG    db-server-2 Validation successful for clerk-0-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-28-trx-1
+DEBUG    db-server-3 received prepare request clerk-15-trx-1
+DEBUG    db-server-0 Validation successful for clerk-28-trx-1 - Prepare OK
+DEBUG    db-server-3 Validation successful for clerk-15-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-0-trx-1
+DEBUG    db-server-5 Validation successful for clerk-0-trx-1 - Prepare OK
+DEBUG    db-server-6 received read object request for dict_keys([76])
+DEBUG    clerk-26 -Read finished for clerk-26-trx-1
+DEBUG    clerk-26 -Sending prepare to dict_keys(['db-server-8', 'db-server-7', 'db-server-5', 'db-server-9', 'db-server-6']) 
+DEBUG    db-server-0 received read object request for dict_keys([90])
+DEBUG    clerk-42 -Read finished for clerk-42-trx-1
+DEBUG    clerk-42 -Sending prepare to dict_keys(['db-server-9', 'db-server-7', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-6 received prepare request clerk-39-trx-1
+DEBUG    db-server-6 Validation successful for clerk-39-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-96-trx-1
+DEBUG    db-server-5 Validation successful for clerk-96-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-68-trx-1
+DEBUG    db-server-5 Validation successful for clerk-68-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-98-trx-1
+DEBUG    db-server-0 Validation successful for clerk-98-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-39-trx-1
+DEBUG    db-server-9 Validation successful for clerk-39-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-96-trx-1
+DEBUG    db-server-7 received prepare request clerk-68-trx-1
+DEBUG    db-server-2 Validation successful for clerk-96-trx-1 - Prepare OK
+DEBUG    db-server-7 Validation successful for clerk-68-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-98-trx-1
+DEBUG    db-server-4 Validation successful for clerk-98-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-8-trx-1
+DEBUG    db-server-9 Validation successful for clerk-8-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-62-trx-1
+DEBUG    db-server-0 Validation successful for clerk-62-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-10-trx-1
+DEBUG    db-server-6 Validation successful for clerk-10-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-51-trx-1
+DEBUG    db-server-0 Validation successful for clerk-51-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-62-trx-1
+DEBUG    db-server-1 Validation successful for clerk-62-trx-1 - Prepare OK
+DEBUG    clerk-62 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-1']) 
+DEBUG    db-server-7 received prepare request clerk-64-trx-1
+DEBUG    db-server-7 Validation successful for clerk-64-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-8-trx-1
+DEBUG    db-server-3 Validation successful for clerk-8-trx-1 - Prepare OK
+DEBUG    db-server-9 received read object request for dict_keys([59])
+DEBUG    clerk-50 -Read finished for clerk-50-trx-1
+DEBUG    clerk-50 -Sending prepare to dict_keys(['db-server-5', 'db-server-6', 'db-server-8', 'db-server-9']) 
+DEBUG    db-server-4 received prepare request clerk-84-trx-1
+DEBUG    db-server-4 Validation successful for clerk-84-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-98-trx-1
+DEBUG    db-server-3 Validation successful for clerk-98-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-10-trx-1
+DEBUG    db-server-3 Validation successful for clerk-10-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-51-trx-1
+DEBUG    db-server-8 Validation successful for clerk-51-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-8-trx-1
+DEBUG    db-server-6 Validation successful for clerk-8-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([80])
+DEBUG    db-server-3 received prepare request clerk-51-trx-1
+DEBUG    db-server-3 Validation successful for clerk-51-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-10-trx-1
+DEBUG    db-server-1 Validation successful for clerk-10-trx-1 - Prepare OK
+DEBUG    db-server-1 received read object request for dict_keys([91])
+DEBUG    clerk-48 -Read finished for clerk-48-trx-1
+DEBUG    clerk-48 -Sending prepare to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-1']) 
+DEBUG    db-server-2 received prepare request clerk-18-trx-1
+DEBUG    db-server-2 Validation successful for clerk-18-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-64-trx-1
+DEBUG    db-server-9 Validation successful for clerk-64-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-84-trx-1
+DEBUG    db-server-0 Validation successful for clerk-84-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-3-trx-1
+DEBUG    db-server-4 received prepare request clerk-64-trx-1
+DEBUG    db-server-5 Validation successful for clerk-3-trx-1 - Prepare OK
+DEBUG    db-server-4 Validation successful for clerk-64-trx-1 - Prepare OK
+DEBUG    db-server-2 received read object request for dict_keys([82])
+DEBUG    clerk-21 -Read finished for clerk-21-trx-1
+DEBUG    clerk-21 -Sending prepare to dict_keys(['db-server-6', 'db-server-1', 'db-server-8', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-6 received prepare request clerk-84-trx-1
+DEBUG    db-server-6 Validation successful for clerk-84-trx-1 - Prepare OK
+DEBUG    db-server-3 received read object request for dict_keys([93])
+DEBUG    clerk-94 -Read finished for clerk-94-trx-1
+DEBUG    clerk-94 -Sending prepare to dict_keys(['db-server-6', 'db-server-2', 'db-server-5', 'db-server-3']) 
+DEBUG    db-server-7 received prepare request clerk-20-trx-1
+DEBUG    db-server-5 received prepare request clerk-18-trx-1
+DEBUG    db-server-7 Validation successful for clerk-20-trx-1 - Prepare OK
+DEBUG    db-server-5 Validation successful for clerk-18-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-92-trx-1
+DEBUG    db-server-9 Validation successful for clerk-92-trx-1 - Prepare OK
+DEBUG    db-server-4 received read object request for dict_keys([54])
+DEBUG    db-server-3 received prepare request clerk-20-trx-1
+DEBUG    db-server-6 received prepare request clerk-97-trx-1
+DEBUG    db-server-3 Validation successful for clerk-20-trx-1 - Prepare OK
+DEBUG    db-server-6 Validation successful for clerk-97-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-18-trx-1
+DEBUG    db-server-0 Validation successful for clerk-18-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-3-trx-1
+DEBUG    db-server-8 Validation successful for clerk-3-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-11-trx-1
+DEBUG    db-server-1 Validation successful for clerk-11-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-92-trx-1
+DEBUG    db-server-1 Validation successful for clerk-92-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-97-trx-1
+DEBUG    db-server-1 Validation successful for clerk-97-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-3-trx-1
+DEBUG    db-server-3 Validation successful for clerk-3-trx-1 - Prepare OK
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-46 -Read finished for clerk-46-trx-1
+DEBUG    clerk-46 -Sending prepare to dict_keys(['db-server-2', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-1 received prepare request clerk-9-trx-1
+DEBUG    db-server-1 Validation successful for clerk-9-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-11-trx-1
+DEBUG    db-server-9 received prepare request clerk-30-trx-1
+DEBUG    db-server-6 Validation successful for clerk-11-trx-1 - Prepare OK
+DEBUG    db-server-9 Validation successful for clerk-30-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-82-trx-1
+DEBUG    db-server-5 Validation successful for clerk-82-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-9-trx-1
+DEBUG    db-server-2 received prepare request clerk-73-trx-1
+DEBUG    db-server-2 Validation successful for clerk-73-trx-1 - Prepare OK
+DEBUG    db-server-5 Validation successful for clerk-9-trx-1 - Prepare OK
+DEBUG    db-server-2 received read object request for dict_keys([72])
+DEBUG    db-server-2 received prepare request clerk-11-trx-1
+DEBUG    db-server-0 received prepare request clerk-30-trx-1
+DEBUG    db-server-2 Validation successful for clerk-11-trx-1 - Prepare OK
+DEBUG    db-server-0 Validation successful for clerk-30-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-22-trx-1
+DEBUG    db-server-0 Validation successful for clerk-22-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-19-trx-1
+DEBUG    db-server-1 Validation successful for clerk-19-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-73-trx-1
+DEBUG    db-server-1 Validation successful for clerk-73-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-56-trx-1
+DEBUG    db-server-4 received prepare request clerk-19-trx-1
+DEBUG    db-server-1 received prepare request clerk-82-trx-1
+DEBUG    db-server-2 Validation successful for clerk-56-trx-1 - Prepare OK
+DEBUG    db-server-4 Validation successful for clerk-19-trx-1 - Prepare OK
+DEBUG    db-server-1 Validation successful for clerk-82-trx-1 - Prepare OK
+DEBUG    db-server-0 received read object request for dict_keys([80])
+DEBUG    clerk-5 -Read finished for clerk-5-trx-1
+DEBUG    clerk-5 -Sending prepare to dict_keys(['db-server-7', 'db-server-3', 'db-server-4', 'db-server-2', 'db-server-0']) 
+DEBUG    db-server-2 received prepare request clerk-82-trx-1
+DEBUG    db-server-6 received prepare request clerk-72-trx-1
+DEBUG    db-server-2 Validation successful for clerk-82-trx-1 - Prepare OK
+DEBUG    db-server-6 Validation successful for clerk-72-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-22-trx-1
+DEBUG    clerk-82 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-1', 'db-server-2']) 
+DEBUG    db-server-2 Validation successful for clerk-22-trx-1 - Prepare OK
+DEBUG    db-server-1 received read object request for dict_keys([61])
+DEBUG    clerk-52 -Read finished for clerk-52-trx-1
+DEBUG    clerk-52 -Sending prepare to dict_keys(['db-server-8', 'db-server-7', 'db-server-0', 'db-server-1']) 
+DEBUG    db-server-5 received prepare request clerk-91-trx-1
+DEBUG    db-server-5 Validation successful for clerk-91-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-72-trx-1
+DEBUG    db-server-3 Validation successful for clerk-72-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-22-trx-1
+DEBUG    db-server-8 Validation successful for clerk-22-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-56-trx-1
+DEBUG    db-server-6 received prepare request clerk-81-trx-1
+DEBUG    db-server-4 Validation successful for clerk-56-trx-1 - Prepare OK
+DEBUG    db-server-6 Validation successful for clerk-81-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-91-trx-1
+DEBUG    db-server-9 received prepare request clerk-35-trx-1
+DEBUG    db-server-8 Validation successful for clerk-91-trx-1 - Prepare OK
+DEBUG    db-server-9 Validation successful for clerk-35-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-2-trx-1
+DEBUG    db-server-8 Validation successful for clerk-2-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-81-trx-1
+DEBUG    db-server-1 received prepare request clerk-56-trx-1
+DEBUG    db-server-8 Validation successful for clerk-81-trx-1 - Prepare OK
+DEBUG    db-server-1 Validation successful for clerk-56-trx-1 - Prepare OK
+DEBUG    clerk-56 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-4 received read object request for dict_keys([94])
+DEBUG    clerk-59 -Read finished for clerk-59-trx-1
+DEBUG    clerk-59 -Sending prepare to dict_keys(['db-server-1', 'db-server-9', 'db-server-0', 'db-server-5', 'db-server-4']) 
+DEBUG    db-server-3 received prepare request clerk-61-trx-1
+DEBUG    db-server-6 received prepare request clerk-35-trx-1
+DEBUG    db-server-3 Validation successful for clerk-61-trx-1 - Prepare OK
+DEBUG    db-server-6 Validation successful for clerk-35-trx-1 - Prepare OK
+DEBUG    db-server-3 received read object request for dict_keys([83])
+DEBUG    db-server-1 received prepare request clerk-89-trx-1
+DEBUG    db-server-1 Validation successful for clerk-89-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-2-trx-1
+DEBUG    db-server-0 Validation successful for clerk-2-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-61-trx-1
+DEBUG    db-server-9 Validation successful for clerk-61-trx-1 - Prepare OK
+DEBUG    db-server-7 received read object request for dict_keys([97])
+DEBUG    clerk-53 -Read finished for clerk-53-trx-1
+DEBUG    clerk-53 -Sending prepare to dict_keys(['db-server-4', 'db-server-2', 'db-server-1', 'db-server-3', 'db-server-7']) 
+DEBUG    db-server-9 received prepare request clerk-2-trx-1
+DEBUG    db-server-4 received prepare request clerk-45-trx-1
+DEBUG    db-server-9 Validation successful for clerk-2-trx-1 - Prepare OK
+DEBUG    db-server-4 Validation successful for clerk-45-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-89-trx-1
+DEBUG    db-server-6 Validation successful for clerk-89-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-61-trx-1
+DEBUG    db-server-6 received prepare request clerk-25-trx-1
+DEBUG    db-server-5 Validation successful for clerk-61-trx-1 - Prepare OK
+DEBUG    db-server-6 Validation successful for clerk-25-trx-1 - Prepare OK
+DEBUG    db-server-8 received read object request for dict_keys([68])
+DEBUG    db-server-8 received prepare request clerk-45-trx-1
+DEBUG    db-server-0 received prepare request clerk-89-trx-1
+DEBUG    db-server-3 received prepare request clerk-33-trx-1
+DEBUG    db-server-8 Validation successful for clerk-45-trx-1 - Prepare OK
+DEBUG    db-server-0 Validation successful for clerk-89-trx-1 - Prepare OK
+DEBUG    db-server-3 Validation successful for clerk-33-trx-1 - Prepare OK
+DEBUG    clerk-89 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-6', 'db-server-0']) 
+DEBUG    db-server-3 received read object request for dict_keys([53])
+DEBUG    clerk-76 -Read finished for clerk-76-trx-1
+DEBUG    clerk-76 -Sending prepare to dict_keys(['db-server-9', 'db-server-2', 'db-server-6', 'db-server-3']) 
+DEBUG    db-server-7 received prepare request clerk-25-trx-1
+DEBUG    db-server-8 received prepare request clerk-23-trx-1
+DEBUG    db-server-7 Validation successful for clerk-25-trx-1 - Prepare OK
+DEBUG    db-server-8 Validation successful for clerk-23-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-60-trx-1
+DEBUG    db-server-0 Validation successful for clerk-60-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-33-trx-1
+DEBUG    db-server-5 Validation successful for clerk-33-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-23-trx-1
+DEBUG    db-server-8 received prepare request clerk-85-trx-1
+DEBUG    db-server-6 Validation successful for clerk-23-trx-1 - Prepare OK
+DEBUG    db-server-8 Validation successful for clerk-85-trx-1 - Prepare OK
+DEBUG    db-server-7 received read object request for dict_keys([87])
+DEBUG    clerk-86 -Read finished for clerk-86-trx-1
+DEBUG    clerk-86 -Sending prepare to dict_keys(['db-server-0', 'db-server-9', 'db-server-4', 'db-server-8', 'db-server-7']) 
+DEBUG    db-server-9 received prepare request clerk-85-trx-1
+DEBUG    db-server-9 Validation successful for clerk-85-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-54-trx-1
+DEBUG    db-server-2 Validation successful for clerk-54-trx-1 - Prepare OK
+DEBUG    clerk-54 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-1', 'db-server-9', 'db-server-2']) 
+DEBUG    db-server-7 received prepare request clerk-60-trx-1
+DEBUG    db-server-7 Validation successful for clerk-60-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-16-trx-1
+DEBUG    db-server-4 Validation successful for clerk-16-trx-1 - Prepare OK
+DEBUG    clerk-16 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-2 received prepare request clerk-79-trx-1
+DEBUG    db-server-2 Validation successful for clerk-79-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-60-trx-1
+DEBUG    db-server-4 Validation successful for clerk-60-trx-1 - Prepare OK
+DEBUG    clerk-60 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-6', 'db-server-0', 'db-server-7', 'db-server-4']) 
+DEBUG    db-server-0 received prepare request clerk-79-trx-1
+DEBUG    db-server-0 Validation successful for clerk-79-trx-1 - Prepare OK
+DEBUG    clerk-79 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-0']) 
+DEBUG    db-server-1 received read object request for dict_keys([81])
+DEBUG    db-server-2 received read object request for dict_keys([62])
+DEBUG    db-server-5 received prepare request clerk-90-trx-1
+DEBUG    db-server-5 Validation successful for clerk-90-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-85-trx-1
+DEBUG    db-server-7 Validation successful for clerk-85-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-70-trx-1
+DEBUG    db-server-5 Validation successful for clerk-70-trx-1 - Prepare OK
+DEBUG    db-server-9 received read object request for dict_keys([99])
+DEBUG    clerk-74 -Read finished for clerk-74-trx-1
+DEBUG    clerk-74 -Sending prepare to dict_keys(['db-server-8', 'db-server-6', 'db-server-5', 'db-server-1', 'db-server-9']) 
+DEBUG    db-server-7 received prepare request clerk-27-trx-1
+DEBUG    db-server-7 Validation successful for clerk-27-trx-1 - Prepare OK
+DEBUG    clerk-27 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-6', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-1 received prepare request clerk-71-trx-1
+DEBUG    db-server-1 Validation successful for clerk-71-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-85-trx-1
+DEBUG    db-server-5 Validation successful for clerk-85-trx-1 - Prepare OK
+DEBUG    clerk-85 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-9', 'db-server-7', 'db-server-5']) 
+DEBUG    db-server-1 received read object request for dict_keys([81])
+DEBUG    clerk-77 -Read finished for clerk-77-trx-1
+DEBUG    clerk-77 -Sending prepare to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-2', 'db-server-1']) 
+DEBUG    db-server-4 received prepare request clerk-90-trx-1
+DEBUG    db-server-4 Validation successful for clerk-90-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-4-trx-1
+DEBUG    db-server-9 Validation successful for clerk-4-trx-1 - Prepare OK
+DEBUG    clerk-4 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-9']) 
+DEBUG    db-server-4 received prepare request clerk-31-trx-1
+DEBUG    db-server-4 Validation successful for clerk-31-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-36-trx-1
+DEBUG    db-server-4 Validation successful for clerk-36-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-70-trx-1
+DEBUG    db-server-4 Validation successful for clerk-70-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-71-trx-1
+DEBUG    db-server-5 Validation successful for clerk-71-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-70-trx-1
+DEBUG    db-server-7 Validation successful for clerk-70-trx-1 - Prepare OK
+DEBUG    clerk-70 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-5 received prepare request clerk-14-trx-1
+DEBUG    db-server-5 Validation successful for clerk-14-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-65-trx-1
+DEBUG    db-server-0 Validation successful for clerk-65-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-90-trx-1
+DEBUG    db-server-6 Validation successful for clerk-90-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-71-trx-1
+DEBUG    db-server-4 Validation successful for clerk-71-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-31-trx-1
+DEBUG    db-server-1 Validation successful for clerk-31-trx-1 - Prepare OK
+DEBUG    clerk-31 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-6', 'db-server-7', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-9 received prepare request clerk-36-trx-1
+DEBUG    db-server-9 Validation successful for clerk-36-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-34-trx-1
+DEBUG    db-server-6 Validation successful for clerk-34-trx-1 - Prepare OK
+DEBUG    clerk-34 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-0', 'db-server-1', 'db-server-6']) 
+DEBUG    db-server-1 received prepare request clerk-36-trx-1
+DEBUG    db-server-1 Validation successful for clerk-36-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-33-trx-1
+DEBUG    db-server-1 Validation successful for clerk-33-trx-1 - Prepare OK
+DEBUG    db-server-9 received commit request clerk-12-trx-1
+DEBUG    db-server-4 received prepare request clerk-14-trx-1
+DEBUG    db-server-4 Validation successful for clerk-14-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-65-trx-1
+DEBUG    db-server-3 Validation successful for clerk-65-trx-1 - Prepare OK
+DEBUG    clerk-65 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-7', 'db-server-9', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-5 received prepare request clerk-44-trx-1
+DEBUG    db-server-5 Validation successful for clerk-44-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-58-trx-1
+DEBUG    db-server-3 received prepare request clerk-14-trx-1
+DEBUG    db-server-8 Validation successful for clerk-58-trx-1 - Prepare OK
+DEBUG    db-server-3 Validation successful for clerk-14-trx-1 - Prepare OK
+DEBUG    clerk-14 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-0', 'db-server-5', 'db-server-4', 'db-server-3']) 
+DEBUG    db-server-5 received prepare request clerk-17-trx-1
+DEBUG    db-server-5 Validation successful for clerk-17-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-33-trx-1
+DEBUG    db-server-7 Validation successful for clerk-33-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-95-trx-1
+DEBUG    db-server-7 Validation successful for clerk-95-trx-1 - Prepare OK
+DEBUG    db-server-6 received commit request clerk-12-trx-1
+DEBUG    db-server-6 received prepare request clerk-95-trx-1
+DEBUG    db-server-4 received commit request clerk-12-trx-1
+DEBUG    db-server-6 Validation successful for clerk-95-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-36-trx-1
+DEBUG    clerk-12 -Committed clerk-12-trx-1 
+DEBUG    db-server-8 Validation successful for clerk-36-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-58-trx-1
+DEBUG    db-server-2 received prepare request clerk-44-trx-1
+DEBUG    db-server-0 Validation successful for clerk-58-trx-1 - Prepare OK
+DEBUG    db-server-2 Validation successful for clerk-44-trx-1 - Prepare OK
+DEBUG    clerk-36 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-9', 'db-server-1', 'db-server-8']) 
+DEBUG    db-server-5 received prepare request clerk-29-trx-1
+DEBUG    db-server-5 Validation successful for clerk-29-trx-1 - Prepare OK
+DEBUG    clerk-29 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-4', 'db-server-5']) 
+DEBUG    db-server-3 received prepare request clerk-17-trx-1
+DEBUG    db-server-3 Validation successful for clerk-17-trx-1 - Prepare OK
+DEBUG    clerk-17 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-4', 'db-server-5', 'db-server-3']) 
+DEBUG    db-server-6 received prepare request clerk-44-trx-1
+DEBUG    db-server-6 Validation successful for clerk-44-trx-1 - Prepare OK
+DEBUG    clerk-44 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-4', 'db-server-5', 'db-server-2', 'db-server-6']) 
+DEBUG    db-server-9 received prepare request clerk-75-trx-1
+DEBUG    db-server-9 Validation successful for clerk-75-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-58-trx-1
+DEBUG    db-server-5 Validation successful for clerk-58-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-1-trx-1
+DEBUG    db-server-9 Validation successful for clerk-1-trx-1 - Prepare OK
+DEBUG    clerk-1 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-8', 'db-server-6', 'db-server-9']) 
+DEBUG    db-server-2 received prepare request clerk-67-trx-1
+DEBUG    db-server-2 Validation successful for clerk-67-trx-1 - Prepare OK
+DEBUG    clerk-67 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-0', 'db-server-5', 'db-server-2']) 
+DEBUG    db-server-1 received prepare request clerk-75-trx-1
+DEBUG    db-server-1 Validation successful for clerk-75-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-24-trx-1
+DEBUG    db-server-7 Validation successful for clerk-24-trx-1 - Prepare OK
+DEBUG    clerk-24 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-3', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-6 received prepare request clerk-43-trx-1
+DEBUG    db-server-6 Validation successful for clerk-43-trx-1 - Prepare OK
+DEBUG    clerk-43 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-4', 'db-server-0', 'db-server-6']) 
+DEBUG    db-server-3 received prepare request clerk-83-trx-1
+DEBUG    db-server-3 Validation successful for clerk-83-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-49-trx-1
+DEBUG    db-server-3 Validation successful for clerk-49-trx-1 - Prepare OK
+DEBUG    clerk-49 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-2', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-8 received prepare request clerk-78-trx-1
+DEBUG    db-server-8 Validation successful for clerk-78-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-58-trx-1
+DEBUG    db-server-9 Validation successful for clerk-58-trx-1 - Prepare OK
+DEBUG    clerk-58 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-0', 'db-server-5', 'db-server-9']) 
+DEBUG    db-server-9 received prepare request clerk-78-trx-1
+DEBUG    db-server-9 Validation successful for clerk-78-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-99-trx-1
+DEBUG    db-server-3 Validation successful for clerk-99-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-83-trx-1
+DEBUG    db-server-0 Validation successful for clerk-83-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-32-trx-1
+DEBUG    db-server-7 Validation successful for clerk-32-trx-1 - Prepare OK
+DEBUG    clerk-32 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-4', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-1 received prepare request clerk-63-trx-1
+DEBUG    db-server-1 Validation successful for clerk-63-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-87-trx-1
+DEBUG    db-server-7 Validation successful for clerk-87-trx-1 - Prepare OK
+DEBUG    db-server-9 received read object request for dict_keys([39])
+DEBUG    clerk-37 -Read finished for clerk-37-trx-1
+DEBUG    clerk-37 -Sending prepare to dict_keys(['db-server-2', 'db-server-7', 'db-server-6', 'db-server-9']) 
+DEBUG    db-server-2 received prepare request clerk-83-trx-1
+DEBUG    db-server-2 Validation successful for clerk-83-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-47-trx-1
+DEBUG    clerk-83 -Received all prepare ok and sending commit to dict_keys(['db-server-3', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-1 Validation successful for clerk-47-trx-1 - Prepare OK
+DEBUG    clerk-47 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-5', 'db-server-0', 'db-server-1']) 
+DEBUG    db-server-9 received prepare request clerk-66-trx-1
+DEBUG    db-server-9 Validation successful for clerk-66-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-99-trx-1
+DEBUG    db-server-5 Validation successful for clerk-99-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-78-trx-1
+DEBUG    db-server-5 Validation successful for clerk-78-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-63-trx-1
+DEBUG    db-server-7 Validation successful for clerk-63-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-87-trx-1
+DEBUG    db-server-5 Validation successful for clerk-87-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-80-trx-1
+DEBUG    db-server-2 Validation successful for clerk-80-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-6-trx-1
+DEBUG    db-server-4 Validation successful for clerk-6-trx-1 - Prepare OK
+DEBUG    clerk-6 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-9', 'db-server-3', 'db-server-4']) 
+DEBUG    db-server-4 received read object request for dict_keys([84])
+DEBUG    clerk-69 -Read finished for clerk-69-trx-1
+DEBUG    clerk-69 -Sending prepare to dict_keys(['db-server-8', 'db-server-3', 'db-server-5', 'db-server-4']) 
+DEBUG    db-server-8 received prepare request clerk-99-trx-1
+DEBUG    db-server-8 Validation successful for clerk-99-trx-1 - Prepare OK
+DEBUG    db-server-7 received commit request clerk-93-trx-1
+DEBUG    db-server-3 received prepare request clerk-41-trx-1
+DEBUG    db-server-3 Validation successful for clerk-41-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-78-trx-1
+DEBUG    db-server-0 Validation successful for clerk-78-trx-1 - Prepare OK
+DEBUG    clerk-78 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-9', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-9 received prepare request clerk-63-trx-1
+DEBUG    db-server-9 Validation successful for clerk-63-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-87-trx-1
+DEBUG    db-server-6 Validation successful for clerk-87-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-80-trx-1
+DEBUG    db-server-3 Validation successful for clerk-80-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-66-trx-1
+DEBUG    db-server-0 Validation successful for clerk-66-trx-1 - Prepare OK
+DEBUG    clerk-80 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-7', 'db-server-5', 'db-server-2', 'db-server-3']) 
+DEBUG    db-server-9 received prepare request clerk-40-trx-1
+DEBUG    db-server-9 Validation successful for clerk-40-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-13-trx-1
+DEBUG    db-server-9 Validation successful for clerk-13-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-57-trx-1
+DEBUG    clerk-13 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-9']) 
+DEBUG    db-server-6 Validation successful for clerk-57-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-99-trx-1
+DEBUG    db-server-4 Validation successful for clerk-99-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-63-trx-1
+DEBUG    db-server-5 Validation successful for clerk-63-trx-1 - Prepare OK
+DEBUG    clerk-63 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-7', 'db-server-9', 'db-server-5']) 
+DEBUG    db-server-8 received prepare request clerk-28-trx-1
+DEBUG    db-server-8 Validation successful for clerk-28-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-87-trx-1
+DEBUG    db-server-0 Validation successful for clerk-87-trx-1 - Prepare OK
+DEBUG    clerk-87 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-5', 'db-server-6', 'db-server-0']) 
+DEBUG    db-server-9 received commit request clerk-7-trx-1
+DEBUG    db-server-0 received commit request clerk-93-trx-1
+DEBUG    db-server-6 received prepare request clerk-41-trx-1
+DEBUG    db-server-6 Validation successful for clerk-41-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-15-trx-1
+DEBUG    db-server-4 Validation successful for clerk-15-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-66-trx-1
+DEBUG    db-server-3 Validation successful for clerk-66-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-0-trx-1
+DEBUG    db-server-8 Validation successful for clerk-0-trx-1 - Prepare OK
+DEBUG    clerk-0 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-5', 'db-server-8']) 
+DEBUG    db-server-0 received prepare request clerk-40-trx-1
+DEBUG    db-server-0 Validation successful for clerk-40-trx-1 - Prepare OK
+DEBUG    clerk-40 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-1', 'db-server-2', 'db-server-9', 'db-server-0']) 
+DEBUG    db-server-2 received prepare request clerk-55-trx-1
+DEBUG    db-server-2 Validation successful for clerk-55-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-99-trx-1
+DEBUG    db-server-1 Validation successful for clerk-99-trx-1 - Prepare OK
+DEBUG    clerk-99 -Received all prepare ok and sending commit to dict_keys(['db-server-3', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-1']) 
+DEBUG    db-server-3 received prepare request clerk-28-trx-1
+DEBUG    db-server-3 Validation successful for clerk-28-trx-1 - Prepare OK
+DEBUG    clerk-28 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-0', 'db-server-8', 'db-server-3']) 
+DEBUG    db-server-7 received commit request clerk-7-trx-1
+DEBUG    db-server-2 received prepare request clerk-57-trx-1
+DEBUG    db-server-2 Validation successful for clerk-57-trx-1 - Prepare OK
+DEBUG    db-server-3 received commit request clerk-93-trx-1
+DEBUG    db-server-5 received prepare request clerk-41-trx-1
+DEBUG    db-server-5 Validation successful for clerk-41-trx-1 - Prepare OK
+DEBUG    clerk-93 -Committed clerk-93-trx-1 
+DEBUG    db-server-8 received prepare request clerk-15-trx-1
+DEBUG    db-server-8 Validation successful for clerk-15-trx-1 - Prepare OK
+DEBUG    clerk-15 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-0', 'db-server-3', 'db-server-4', 'db-server-8']) 
+DEBUG    db-server-1 received prepare request clerk-68-trx-1
+DEBUG    db-server-1 Validation successful for clerk-68-trx-1 - Prepare OK
+DEBUG    clerk-68 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-5', 'db-server-7', 'db-server-1']) 
+DEBUG    db-server-8 received prepare request clerk-66-trx-1
+DEBUG    db-server-8 Validation successful for clerk-66-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-55-trx-1
+DEBUG    db-server-5 Validation successful for clerk-55-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-96-trx-1
+DEBUG    db-server-0 Validation successful for clerk-96-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-88-trx-1
+DEBUG    db-server-4 Validation successful for clerk-88-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-39-trx-1
+DEBUG    db-server-5 Validation successful for clerk-39-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-7-trx-1
+DEBUG    clerk-7 -Committed clerk-7-trx-1 
+DEBUG    db-server-9 received prepare request clerk-57-trx-1
+DEBUG    db-server-9 Validation successful for clerk-57-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-38-trx-1
+DEBUG    db-server-4 Validation successful for clerk-38-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-41-trx-1
+DEBUG    db-server-8 received prepare request clerk-98-trx-1
+DEBUG    db-server-9 Validation successful for clerk-41-trx-1 - Prepare OK
+DEBUG    db-server-8 Validation successful for clerk-98-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-66-trx-1
+DEBUG    db-server-2 received prepare request clerk-10-trx-1
+DEBUG    db-server-4 Validation successful for clerk-66-trx-1 - Prepare OK
+DEBUG    clerk-66 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-0', 'db-server-3', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-2 Validation successful for clerk-10-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-42-trx-1
+DEBUG    db-server-9 Validation successful for clerk-42-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-96-trx-1
+DEBUG    db-server-6 Validation successful for clerk-96-trx-1 - Prepare OK
+DEBUG    clerk-96 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-2', 'db-server-0', 'db-server-6']) 
+DEBUG    db-server-9 received prepare request clerk-88-trx-1
+DEBUG    db-server-9 Validation successful for clerk-88-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-51-trx-1
+DEBUG    db-server-4 Validation successful for clerk-51-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-39-trx-1
+DEBUG    db-server-7 Validation successful for clerk-39-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-8-trx-1
+DEBUG    db-server-1 Validation successful for clerk-8-trx-1 - Prepare OK
+DEBUG    clerk-8 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-3', 'db-server-6', 'db-server-1']) 
+DEBUG    db-server-1 received prepare request clerk-57-trx-1
+DEBUG    db-server-1 Validation successful for clerk-57-trx-1 - Prepare OK
+DEBUG    clerk-57 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-2', 'db-server-9', 'db-server-1']) 
+DEBUG    db-server-3 received prepare request clerk-55-trx-1
+DEBUG    db-server-8 received prepare request clerk-26-trx-1
+DEBUG    db-server-3 Validation successful for clerk-55-trx-1 - Prepare OK
+DEBUG    db-server-8 Validation successful for clerk-26-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-38-trx-1
+DEBUG    db-server-5 Validation successful for clerk-38-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-41-trx-1
+DEBUG    db-server-8 Validation successful for clerk-41-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-98-trx-1
+DEBUG    db-server-5 Validation successful for clerk-98-trx-1 - Prepare OK
+DEBUG    clerk-41 -Received all prepare ok and sending commit to dict_keys(['db-server-3', 'db-server-6', 'db-server-5', 'db-server-9', 'db-server-8']) 
+DEBUG    clerk-98 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-4', 'db-server-3', 'db-server-8', 'db-server-5']) 
+DEBUG    db-server-5 received prepare request clerk-64-trx-1
+DEBUG    db-server-5 Validation successful for clerk-64-trx-1 - Prepare OK
+DEBUG    clerk-64 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-9', 'db-server-4', 'db-server-5']) 
+DEBUG    db-server-7 received prepare request clerk-10-trx-1
+DEBUG    db-server-7 Validation successful for clerk-10-trx-1 - Prepare OK
+DEBUG    clerk-10 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-3', 'db-server-1', 'db-server-2', 'db-server-7']) 
+DEBUG    db-server-7 received prepare request clerk-42-trx-1
+DEBUG    db-server-7 Validation successful for clerk-42-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-84-trx-1
+DEBUG    db-server-5 Validation successful for clerk-84-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-51-trx-1
+DEBUG    db-server-9 Validation successful for clerk-51-trx-1 - Prepare OK
+DEBUG    clerk-51 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    db-server-5 received prepare request clerk-20-trx-1
+DEBUG    db-server-5 Validation successful for clerk-20-trx-1 - Prepare OK
+DEBUG    clerk-20 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-3', 'db-server-5']) 
+DEBUG    db-server-3 received prepare request clerk-88-trx-1
+DEBUG    db-server-3 Validation successful for clerk-88-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-18-trx-1
+DEBUG    db-server-3 Validation successful for clerk-18-trx-1 - Prepare OK
+DEBUG    clerk-18 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-5', 'db-server-0', 'db-server-3']) 
+DEBUG    db-server-7 received prepare request clerk-38-trx-1
+DEBUG    db-server-7 Validation successful for clerk-38-trx-1 - Prepare OK
+DEBUG    db-server-0 received commit request clerk-62-trx-1
+DEBUG    db-server-5 received prepare request clerk-42-trx-1
+DEBUG    db-server-5 Validation successful for clerk-42-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-26-trx-1
+DEBUG    db-server-7 Validation successful for clerk-26-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-84-trx-1
+DEBUG    db-server-7 Validation successful for clerk-84-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-97-trx-1
+DEBUG    clerk-84 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-0', 'db-server-6', 'db-server-5', 'db-server-7']) 
+DEBUG    db-server-9 Validation successful for clerk-97-trx-1 - Prepare OK
+DEBUG    clerk-97 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-1', 'db-server-9']) 
+DEBUG    db-server-2 received prepare request clerk-39-trx-1
+DEBUG    db-server-2 Validation successful for clerk-39-trx-1 - Prepare OK
+DEBUG    clerk-39 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-9', 'db-server-5', 'db-server-7', 'db-server-2']) 
+DEBUG    db-server-5 received prepare request clerk-50-trx-1
+DEBUG    db-server-5 Validation successful for clerk-50-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-92-trx-1
+DEBUG    db-server-4 Validation successful for clerk-92-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-3-trx-1
+DEBUG    db-server-4 Validation successful for clerk-3-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-55-trx-1
+DEBUG    db-server-1 Validation successful for clerk-55-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-9-trx-1
+DEBUG    db-server-0 Validation successful for clerk-9-trx-1 - Prepare OK
+DEBUG    clerk-9 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-0 received prepare request clerk-48-trx-1
+DEBUG    db-server-0 Validation successful for clerk-48-trx-1 - Prepare OK
+DEBUG    db-server-1 received commit request clerk-62-trx-1
+DEBUG    clerk-62 -Committed clerk-62-trx-1 
+DEBUG    db-server-7 received prepare request clerk-11-trx-1
+DEBUG    db-server-7 Validation successful for clerk-11-trx-1 - Prepare OK
+DEBUG    clerk-11 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-6', 'db-server-2', 'db-server-7']) 
+DEBUG    db-server-6 received prepare request clerk-21-trx-1
+DEBUG    db-server-6 Validation successful for clerk-21-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-26-trx-1
+DEBUG    db-server-5 Validation successful for clerk-26-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-73-trx-1
+DEBUG    db-server-6 Validation successful for clerk-73-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-94-trx-1
+DEBUG    db-server-6 Validation successful for clerk-94-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-50-trx-1
+DEBUG    db-server-6 Validation successful for clerk-50-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-88-trx-1
+DEBUG    db-server-7 Validation successful for clerk-88-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-92-trx-1
+DEBUG    db-server-7 Validation successful for clerk-92-trx-1 - Prepare OK
+DEBUG    clerk-92 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-1', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-7 received prepare request clerk-30-trx-1
+DEBUG    db-server-7 Validation successful for clerk-30-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-38-trx-1
+DEBUG    db-server-0 Validation successful for clerk-38-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-3-trx-1
+DEBUG    db-server-9 Validation successful for clerk-3-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-19-trx-1
+DEBUG    clerk-3 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-8', 'db-server-3', 'db-server-4', 'db-server-9']) 
+DEBUG    db-server-2 Validation successful for clerk-19-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-55-trx-1
+DEBUG    db-server-6 Validation successful for clerk-55-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-48-trx-1
+DEBUG    clerk-55 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-5', 'db-server-3', 'db-server-1', 'db-server-6']) 
+DEBUG    db-server-4 Validation successful for clerk-48-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-21-trx-1
+DEBUG    db-server-0 received prepare request clerk-42-trx-1
+DEBUG    db-server-1 Validation successful for clerk-21-trx-1 - Prepare OK
+DEBUG    db-server-0 Validation successful for clerk-42-trx-1 - Prepare OK
+DEBUG    clerk-42 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-7', 'db-server-5', 'db-server-0']) 
+DEBUG    db-server-9 received prepare request clerk-26-trx-1
+DEBUG    db-server-9 Validation successful for clerk-26-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-73-trx-1
+DEBUG    db-server-9 received prepare request clerk-22-trx-1
+DEBUG    db-server-7 Validation successful for clerk-73-trx-1 - Prepare OK
+DEBUG    db-server-9 Validation successful for clerk-22-trx-1 - Prepare OK
+DEBUG    clerk-73 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-1', 'db-server-6', 'db-server-7']) 
+DEBUG    db-server-2 received prepare request clerk-94-trx-1
+DEBUG    db-server-2 Validation successful for clerk-94-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-50-trx-1
+DEBUG    db-server-8 Validation successful for clerk-50-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-91-trx-1
+DEBUG    db-server-1 Validation successful for clerk-91-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-88-trx-1
+DEBUG    db-server-0 Validation successful for clerk-88-trx-1 - Prepare OK
+DEBUG    clerk-88 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-9', 'db-server-3', 'db-server-7', 'db-server-0']) 
+DEBUG    db-server-8 received prepare request clerk-30-trx-1
+DEBUG    db-server-8 Validation successful for clerk-30-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-38-trx-1
+DEBUG    db-server-2 Validation successful for clerk-38-trx-1 - Prepare OK
+DEBUG    clerk-38 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-5', 'db-server-7', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-4 received prepare request clerk-81-trx-1
+DEBUG    db-server-4 Validation successful for clerk-81-trx-1 - Prepare OK
+DEBUG    clerk-81 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-8', 'db-server-4']) 
+DEBUG    db-server-2 received prepare request clerk-46-trx-1
+DEBUG    db-server-2 Validation successful for clerk-46-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-19-trx-1
+DEBUG    db-server-8 received prepare request clerk-48-trx-1
+DEBUG    db-server-5 Validation successful for clerk-19-trx-1 - Prepare OK
+DEBUG    clerk-19 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-4', 'db-server-2', 'db-server-5']) 
+DEBUG    db-server-8 Validation successful for clerk-48-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-72-trx-1
+DEBUG    db-server-1 Validation successful for clerk-72-trx-1 - Prepare OK
+DEBUG    clerk-72 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-3', 'db-server-1']) 
+DEBUG    db-server-4 received prepare request clerk-35-trx-1
+DEBUG    db-server-4 Validation successful for clerk-35-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-21-trx-1
+DEBUG    db-server-8 Validation successful for clerk-21-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-26-trx-1
+DEBUG    db-server-6 Validation successful for clerk-26-trx-1 - Prepare OK
+DEBUG    clerk-26 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-7', 'db-server-5', 'db-server-9', 'db-server-6']) 
+DEBUG    db-server-1 received prepare request clerk-22-trx-1
+DEBUG    db-server-1 Validation successful for clerk-22-trx-1 - Prepare OK
+DEBUG    clerk-22 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-2', 'db-server-8', 'db-server-9', 'db-server-1']) 
+DEBUG    db-server-5 received prepare request clerk-94-trx-1
+DEBUG    db-server-5 Validation successful for clerk-94-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-50-trx-1
+DEBUG    db-server-9 Validation successful for clerk-50-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-91-trx-1
+DEBUG    clerk-50 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-6', 'db-server-8', 'db-server-9']) 
+DEBUG    db-server-3 Validation successful for clerk-91-trx-1 - Prepare OK
+DEBUG    clerk-91 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-8', 'db-server-1', 'db-server-3']) 
+DEBUG    db-server-3 received prepare request clerk-30-trx-1
+DEBUG    db-server-3 Validation successful for clerk-30-trx-1 - Prepare OK
+DEBUG    clerk-30 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-0', 'db-server-7', 'db-server-8', 'db-server-3']) 
+DEBUG    db-server-1 received prepare request clerk-48-trx-1
+DEBUG    db-server-6 received prepare request clerk-2-trx-1
+DEBUG    db-server-1 Validation successful for clerk-48-trx-1 - Prepare OK
+DEBUG    clerk-48 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-1']) 
+DEBUG    db-server-6 Validation successful for clerk-2-trx-1 - Prepare OK
+DEBUG    clerk-2 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-0', 'db-server-9', 'db-server-6']) 
+DEBUG    db-server-2 received prepare request clerk-35-trx-1
+DEBUG    db-server-0 received prepare request clerk-21-trx-1
+DEBUG    db-server-2 Validation successful for clerk-35-trx-1 - Prepare OK
+DEBUG    clerk-35 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-6', 'db-server-4', 'db-server-2']) 
+DEBUG    db-server-0 Validation successful for clerk-21-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-46-trx-1
+DEBUG    db-server-5 Validation successful for clerk-46-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-61-trx-1
+DEBUG    db-server-7 received prepare request clerk-5-trx-1
+DEBUG    db-server-6 Validation successful for clerk-61-trx-1 - Prepare OK
+DEBUG    db-server-7 Validation successful for clerk-5-trx-1 - Prepare OK
+DEBUG    db-server-3 received prepare request clerk-94-trx-1
+DEBUG    db-server-3 Validation successful for clerk-94-trx-1 - Prepare OK
+DEBUG    clerk-94 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-2', 'db-server-5', 'db-server-3']) 
+DEBUG    db-server-6 received prepare request clerk-45-trx-1
+DEBUG    db-server-5 received commit request clerk-82-trx-1
+DEBUG    db-server-6 Validation successful for clerk-45-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-52-trx-1
+DEBUG    db-server-8 Validation successful for clerk-52-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-25-trx-1
+DEBUG    db-server-9 Validation successful for clerk-25-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-59-trx-1
+DEBUG    db-server-1 Validation successful for clerk-59-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-23-trx-1
+DEBUG    db-server-1 Validation successful for clerk-23-trx-1 - Prepare OK
+DEBUG    db-server-8 received prepare request clerk-46-trx-1
+DEBUG    db-server-8 Validation successful for clerk-46-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-61-trx-1
+DEBUG    db-server-2 Validation successful for clerk-61-trx-1 - Prepare OK
+DEBUG    clerk-61 -Received all prepare ok and sending commit to dict_keys(['db-server-3', 'db-server-9', 'db-server-5', 'db-server-6', 'db-server-2']) 
+DEBUG    db-server-2 received prepare request clerk-90-trx-1
+DEBUG    db-server-2 Validation successful for clerk-90-trx-1 - Prepare OK
+DEBUG    clerk-90 -Received all prepare ok and sending commit to dict_keys(['db-server-5', 'db-server-4', 'db-server-6', 'db-server-2']) 
+DEBUG    db-server-2 received commit request clerk-56-trx-1
+DEBUG    db-server-0 received prepare request clerk-45-trx-1
+DEBUG    db-server-0 Validation successful for clerk-45-trx-1 - Prepare OK
+DEBUG    db-server-1 received commit request clerk-82-trx-1
+DEBUG    db-server-3 received prepare request clerk-5-trx-1
+DEBUG    db-server-3 Validation successful for clerk-5-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-52-trx-1
+DEBUG    db-server-7 Validation successful for clerk-52-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-25-trx-1
+DEBUG    db-server-9 received prepare request clerk-59-trx-1
+DEBUG    db-server-0 Validation successful for clerk-25-trx-1 - Prepare OK
+DEBUG    clerk-25 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-7', 'db-server-9', 'db-server-0']) 
+DEBUG    db-server-9 Validation successful for clerk-59-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-23-trx-1
+DEBUG    db-server-4 Validation successful for clerk-23-trx-1 - Prepare OK
+DEBUG    clerk-23 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-6', 'db-server-1', 'db-server-4']) 
+DEBUG    db-server-2 received prepare request clerk-21-trx-1
+DEBUG    db-server-2 Validation successful for clerk-21-trx-1 - Prepare OK
+DEBUG    clerk-21 -Received all prepare ok and sending commit to dict_keys(['db-server-6', 'db-server-1', 'db-server-8', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-4 received prepare request clerk-46-trx-1
+DEBUG    db-server-4 Validation successful for clerk-46-trx-1 - Prepare OK
+DEBUG    db-server-9 received prepare request clerk-76-trx-1
+DEBUG    db-server-9 Validation successful for clerk-76-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-56-trx-1
+DEBUG    db-server-6 received prepare request clerk-71-trx-1
+DEBUG    db-server-6 Validation successful for clerk-71-trx-1 - Prepare OK
+DEBUG    clerk-71 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-5', 'db-server-4', 'db-server-6']) 
+DEBUG    db-server-2 received prepare request clerk-45-trx-1
+DEBUG    db-server-2 Validation successful for clerk-45-trx-1 - Prepare OK
+DEBUG    clerk-45 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-8', 'db-server-6', 'db-server-0', 'db-server-2']) 
+DEBUG    db-server-2 received commit request clerk-82-trx-1
+DEBUG    clerk-82 -Committed clerk-82-trx-1 
+DEBUG    db-server-0 received prepare request clerk-95-trx-1
+DEBUG    db-server-0 Validation successful for clerk-95-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-5-trx-1
+DEBUG    db-server-4 Validation successful for clerk-5-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-52-trx-1
+DEBUG    db-server-0 Validation successful for clerk-52-trx-1 - Prepare OK
+DEBUG    db-server-1 received commit request clerk-89-trx-1
+DEBUG    db-server-0 received prepare request clerk-59-trx-1
+DEBUG    db-server-0 Validation successful for clerk-59-trx-1 - Prepare OK
+DEBUG    db-server-7 received prepare request clerk-46-trx-1
+DEBUG    db-server-7 Validation successful for clerk-46-trx-1 - Prepare OK
+DEBUG    clerk-46 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-5', 'db-server-8', 'db-server-4', 'db-server-7']) 
+DEBUG    db-server-1 received commit request clerk-56-trx-1
+DEBUG    clerk-56 -Committed clerk-56-trx-1 
+DEBUG    db-server-8 received prepare request clerk-95-trx-1
+DEBUG    db-server-8 Validation successful for clerk-95-trx-1 - Prepare OK
+DEBUG    clerk-95 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-6', 'db-server-0', 'db-server-8']) 
+DEBUG    db-server-2 received prepare request clerk-5-trx-1
+DEBUG    db-server-2 Validation successful for clerk-5-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-75-trx-1
+DEBUG    db-server-2 Validation successful for clerk-75-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-52-trx-1
+DEBUG    db-server-1 Validation successful for clerk-52-trx-1 - Prepare OK
+DEBUG    db-server-6 received commit request clerk-89-trx-1
+DEBUG    clerk-52 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-7', 'db-server-0', 'db-server-1']) 
+DEBUG    db-server-4 received prepare request clerk-53-trx-1
+DEBUG    db-server-4 Validation successful for clerk-53-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-76-trx-1
+DEBUG    db-server-2 Validation successful for clerk-76-trx-1 - Prepare OK
+DEBUG    db-server-5 received prepare request clerk-59-trx-1
+DEBUG    db-server-5 Validation successful for clerk-59-trx-1 - Prepare OK
+DEBUG    db-server-2 received prepare request clerk-53-trx-1
+DEBUG    db-server-2 Validation successful for clerk-53-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-86-trx-1
+DEBUG    db-server-0 Validation successful for clerk-86-trx-1 - Prepare OK
+DEBUG    db-server-0 received prepare request clerk-5-trx-1
+DEBUG    db-server-0 Validation successful for clerk-5-trx-1 - Prepare OK
+DEBUG    clerk-5 -Received all prepare ok and sending commit to dict_keys(['db-server-7', 'db-server-3', 'db-server-4', 'db-server-2', 'db-server-0']) 
+DEBUG    db-server-0 received commit request clerk-89-trx-1
+DEBUG    clerk-89 -Committed clerk-89-trx-1 
+DEBUG    db-server-6 received prepare request clerk-76-trx-1
+DEBUG    db-server-6 Validation successful for clerk-76-trx-1 - Prepare OK
+DEBUG    db-server-1 received prepare request clerk-53-trx-1
+DEBUG    db-server-1 Validation successful for clerk-53-trx-1 - Prepare OK
+DEBUG    db-server-8 received commit request clerk-54-trx-1
+DEBUG    db-server-0 received prepare request clerk-75-trx-1
+DEBUG    db-server-0 Validation successful for clerk-75-trx-1 - Prepare OK
+DEBUG    db-server-2 received commit request clerk-16-trx-1
+DEBUG    db-server-2 received commit request clerk-60-trx-1
+DEBUG    db-server-3 received prepare request clerk-76-trx-1
+DEBUG    db-server-3 Validation successful for clerk-76-trx-1 - Prepare OK
+DEBUG    clerk-76 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-2', 'db-server-6', 'db-server-3']) 
+DEBUG    db-server-1 received commit request clerk-54-trx-1
+DEBUG    db-server-2 received commit request clerk-79-trx-1
+DEBUG    db-server-4 received prepare request clerk-75-trx-1
+DEBUG    db-server-4 Validation successful for clerk-75-trx-1 - Prepare OK
+DEBUG    clerk-75 -Received all prepare ok and sending commit to dict_keys(['db-server-9', 'db-server-1', 'db-server-2', 'db-server-0', 'db-server-4']) 
+DEBUG    db-server-9 received prepare request clerk-86-trx-1
+DEBUG    db-server-9 Validation successful for clerk-86-trx-1 - Prepare OK
+DEBUG    db-server-2 received commit request clerk-27-trx-1
+DEBUG    db-server-0 received commit request clerk-79-trx-1
+DEBUG    db-server-8 received prepare request clerk-74-trx-1
+DEBUG    clerk-79 -Committed clerk-79-trx-1 
+DEBUG    db-server-8 Validation successful for clerk-74-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-4-trx-1
+DEBUG    db-server-6 received commit request clerk-27-trx-1
+DEBUG    db-server-3 received commit request clerk-16-trx-1
+DEBUG    db-server-6 received commit request clerk-60-trx-1
+DEBUG    db-server-0 received prepare request clerk-77-trx-1
+DEBUG    db-server-0 Validation successful for clerk-77-trx-1 - Prepare OK
+DEBUG    db-server-6 received prepare request clerk-74-trx-1
+DEBUG    db-server-8 received commit request clerk-85-trx-1
+DEBUG    db-server-6 Validation successful for clerk-74-trx-1 - Prepare OK
+DEBUG    db-server-4 received prepare request clerk-86-trx-1
+DEBUG    db-server-4 Validation successful for clerk-86-trx-1 - Prepare OK
+DEBUG    db-server-8 received commit request clerk-16-trx-1
+DEBUG    db-server-4 received prepare request clerk-77-trx-1
+DEBUG    db-server-4 Validation successful for clerk-77-trx-1 - Prepare OK
+DEBUG    db-server-0 received commit request clerk-60-trx-1
+DEBUG    db-server-5 received commit request clerk-70-trx-1
+DEBUG    db-server-9 received commit request clerk-85-trx-1
+DEBUG    db-server-9 received commit request clerk-54-trx-1
+DEBUG    db-server-7 received commit request clerk-34-trx-1
+DEBUG    db-server-8 received prepare request clerk-86-trx-1
+DEBUG    db-server-8 Validation successful for clerk-86-trx-1 - Prepare OK
+DEBUG    db-server-7 received commit request clerk-4-trx-1
+DEBUG    db-server-7 received commit request clerk-60-trx-1
+DEBUG    db-server-8 received commit request clerk-31-trx-1
+DEBUG    db-server-4 received commit request clerk-70-trx-1
+DEBUG    db-server-0 received commit request clerk-34-trx-1
+DEBUG    db-server-4 received commit request clerk-65-trx-1
+DEBUG    db-server-2 received commit request clerk-54-trx-1
+DEBUG    clerk-54 -Committed clerk-54-trx-1 
+DEBUG    db-server-7 received prepare request clerk-86-trx-1
+DEBUG    db-server-7 Validation successful for clerk-86-trx-1 - Prepare OK
+DEBUG    clerk-86 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-9', 'db-server-4', 'db-server-8', 'db-server-7']) 
+DEBUG    db-server-4 received commit request clerk-16-trx-1
+DEBUG    db-server-8 received commit request clerk-17-trx-1
+DEBUG    clerk-16 -Committed clerk-16-trx-1 
+DEBUG    db-server-6 received commit request clerk-31-trx-1
+DEBUG    db-server-2 received commit request clerk-14-trx-1
+DEBUG    db-server-4 received commit request clerk-17-trx-1
+DEBUG    db-server-4 received commit request clerk-36-trx-1
+DEBUG    db-server-5 received commit request clerk-4-trx-1
+DEBUG    db-server-0 received commit request clerk-14-trx-1
+DEBUG    db-server-7 received commit request clerk-29-trx-1
+DEBUG    db-server-7 received commit request clerk-85-trx-1
+DEBUG    db-server-9 received commit request clerk-36-trx-1
+DEBUG    db-server-7 received commit request clerk-67-trx-1
+DEBUG    db-server-7 received commit request clerk-65-trx-1
+DEBUG    db-server-9 received commit request clerk-4-trx-1
+DEBUG    clerk-4 -Committed clerk-4-trx-1 
+DEBUG    db-server-7 received commit request clerk-70-trx-1
+DEBUG    clerk-70 -Committed clerk-70-trx-1 
+DEBUG    db-server-4 received commit request clerk-29-trx-1
+DEBUG    db-server-1 received commit request clerk-34-trx-1
+DEBUG    db-server-1 received commit request clerk-44-trx-1
+DEBUG    db-server-1 received commit request clerk-24-trx-1
+DEBUG    db-server-7 received commit request clerk-1-trx-1
+DEBUG    db-server-0 received commit request clerk-67-trx-1
+DEBUG    db-server-5 received commit request clerk-85-trx-1
+DEBUG    clerk-85 -Committed clerk-85-trx-1 
+DEBUG    db-server-9 received commit request clerk-65-trx-1
+DEBUG    db-server-4 received commit request clerk-44-trx-1
+DEBUG    db-server-7 received commit request clerk-31-trx-1
+DEBUG    db-server-6 received commit request clerk-34-trx-1
+DEBUG    db-server-9 received commit request clerk-49-trx-1
+DEBUG    clerk-34 -Committed clerk-34-trx-1 
+DEBUG    db-server-8 received commit request clerk-1-trx-1
+DEBUG    db-server-3 received commit request clerk-24-trx-1
+DEBUG    db-server-2 received commit request clerk-43-trx-1
+DEBUG    db-server-2 received commit request clerk-49-trx-1
+DEBUG    db-server-6 received commit request clerk-32-trx-1
+DEBUG    db-server-8 received commit request clerk-58-trx-1
+DEBUG    db-server-0 received commit request clerk-65-trx-1
+DEBUG    db-server-2 received prepare request clerk-37-trx-1
+DEBUG    db-server-2 Validation successful for clerk-37-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-32-trx-1
+DEBUG    db-server-4 received commit request clerk-31-trx-1
+DEBUG    db-server-6 received commit request clerk-47-trx-1
+DEBUG    db-server-0 received commit request clerk-58-trx-1
+DEBUG    db-server-3 received commit request clerk-83-trx-1
+DEBUG    db-server-5 received commit request clerk-67-trx-1
+DEBUG    db-server-7 received prepare request clerk-37-trx-1
+DEBUG    db-server-7 Validation successful for clerk-37-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-43-trx-1
+DEBUG    db-server-0 received commit request clerk-6-trx-1
+DEBUG    db-server-5 received commit request clerk-47-trx-1
+DEBUG    db-server-6 received commit request clerk-1-trx-1
+DEBUG    db-server-5 received commit request clerk-24-trx-1
+DEBUG    db-server-8 received prepare request clerk-69-trx-1
+DEBUG    db-server-8 Validation successful for clerk-69-trx-1 - Prepare OK
+DEBUG    db-server-2 received commit request clerk-67-trx-1
+DEBUG    db-server-3 received commit request clerk-65-trx-1
+DEBUG    clerk-67 -Committed clerk-67-trx-1 
+DEBUG    clerk-65 -Committed clerk-65-trx-1 
+DEBUG    db-server-2 received commit request clerk-13-trx-1
+DEBUG    db-server-0 received commit request clerk-43-trx-1
+DEBUG    db-server-1 received commit request clerk-31-trx-1
+DEBUG    clerk-31 -Committed clerk-31-trx-1 
+DEBUG    db-server-0 received commit request clerk-83-trx-1
+DEBUG    db-server-8 received commit request clerk-78-trx-1
+DEBUG    db-server-9 received commit request clerk-1-trx-1
+DEBUG    clerk-1 -Committed clerk-1-trx-1 
+DEBUG    db-server-7 received commit request clerk-24-trx-1
+DEBUG    clerk-24 -Committed clerk-24-trx-1 
+DEBUG    db-server-3 received prepare request clerk-69-trx-1
+DEBUG    db-server-4 received commit request clerk-80-trx-1
+DEBUG    db-server-3 Validation successful for clerk-69-trx-1 - Prepare OK
+DEBUG    db-server-9 received commit request clerk-6-trx-1
+DEBUG    db-server-5 received commit request clerk-32-trx-1
+DEBUG    db-server-1 received commit request clerk-63-trx-1
+DEBUG    db-server-6 received commit request clerk-43-trx-1
+DEBUG    clerk-43 -Committed clerk-43-trx-1 
+DEBUG    db-server-5 received commit request clerk-13-trx-1
+DEBUG    db-server-5 received commit request clerk-58-trx-1
+DEBUG    db-server-7 received commit request clerk-87-trx-1
+DEBUG    db-server-2 received commit request clerk-0-trx-1
+DEBUG    db-server-0 received commit request clerk-47-trx-1
+DEBUG    db-server-2 received commit request clerk-83-trx-1
+DEBUG    clerk-83 -Committed clerk-83-trx-1 
+DEBUG    db-server-6 received prepare request clerk-37-trx-1
+DEBUG    db-server-6 Validation successful for clerk-37-trx-1 - Prepare OK
+DEBUG    db-server-4 received commit request clerk-40-trx-1
+DEBUG    db-server-9 received commit request clerk-78-trx-1
+DEBUG    db-server-5 received prepare request clerk-69-trx-1
+DEBUG    db-server-5 Validation successful for clerk-69-trx-1 - Prepare OK
+DEBUG    db-server-7 received commit request clerk-80-trx-1
+DEBUG    db-server-3 received commit request clerk-6-trx-1
+DEBUG    db-server-0 received commit request clerk-13-trx-1
+DEBUG    db-server-7 received commit request clerk-32-trx-1
+DEBUG    clerk-32 -Committed clerk-32-trx-1 
+DEBUG    db-server-4 received commit request clerk-28-trx-1
+DEBUG    db-server-9 received commit request clerk-58-trx-1
+DEBUG    clerk-58 -Committed clerk-58-trx-1 
+DEBUG    db-server-3 received commit request clerk-99-trx-1
+DEBUG    db-server-6 received commit request clerk-68-trx-1
+DEBUG    db-server-5 received commit request clerk-78-trx-1
+DEBUG    db-server-9 received prepare request clerk-37-trx-1
+DEBUG    db-server-7 received commit request clerk-63-trx-1
+DEBUG    db-server-9 Validation successful for clerk-37-trx-1 - Prepare OK
+DEBUG    clerk-37 -Received all prepare ok and sending commit to dict_keys(['db-server-2', 'db-server-7', 'db-server-6', 'db-server-9']) 
+DEBUG    db-server-5 received commit request clerk-80-trx-1
+DEBUG    db-server-2 received commit request clerk-15-trx-1
+DEBUG    db-server-4 received prepare request clerk-59-trx-1
+DEBUG    db-server-4 Validation successful for clerk-59-trx-1 - Prepare OK
+DEBUG    clerk-59 -Received all prepare ok and sending commit to dict_keys(['db-server-1', 'db-server-9', 'db-server-0', 'db-server-5', 'db-server-4']) 
+DEBUG    db-server-5 received commit request clerk-87-trx-1
+DEBUG    db-server-5 received commit request clerk-0-trx-1
+DEBUG    db-server-4 received commit request clerk-6-trx-1
+DEBUG    clerk-6 -Committed clerk-6-trx-1 
+DEBUG    db-server-1 received commit request clerk-40-trx-1
+DEBUG    db-server-9 received commit request clerk-66-trx-1
+DEBUG    db-server-5 received commit request clerk-68-trx-1
+DEBUG    db-server-5 received commit request clerk-96-trx-1
+DEBUG    db-server-1 received commit request clerk-47-trx-1
+DEBUG    clerk-47 -Committed clerk-47-trx-1 
+DEBUG    db-server-9 received commit request clerk-63-trx-1
+DEBUG    db-server-0 received commit request clerk-28-trx-1
+DEBUG    db-server-6 received commit request clerk-57-trx-1
+DEBUG    db-server-0 received commit request clerk-15-trx-1
+DEBUG    db-server-5 received commit request clerk-99-trx-1
+DEBUG    db-server-4 received prepare request clerk-69-trx-1
+DEBUG    db-server-6 received commit request clerk-87-trx-1
+DEBUG    db-server-4 Validation successful for clerk-69-trx-1 - Prepare OK
+DEBUG    clerk-69 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-3', 'db-server-5', 'db-server-4']) 
+DEBUG    db-server-8 received commit request clerk-0-trx-1
+DEBUG    clerk-0 -Committed clerk-0-trx-1 
+DEBUG    db-server-9 received commit request clerk-8-trx-1
+DEBUG    db-server-9 received commit request clerk-13-trx-1
+DEBUG    clerk-13 -Committed clerk-13-trx-1 
+DEBUG    db-server-2 received commit request clerk-40-trx-1
+DEBUG    db-server-3 received prepare request clerk-53-trx-1
+DEBUG    db-server-3 Validation successful for clerk-53-trx-1 - Prepare OK
+DEBUG    db-server-7 received commit request clerk-68-trx-1
+DEBUG    db-server-2 received commit request clerk-96-trx-1
+DEBUG    db-server-0 received commit request clerk-78-trx-1
+DEBUG    clerk-78 -Committed clerk-78-trx-1 
+DEBUG    db-server-0 received commit request clerk-98-trx-1
+DEBUG    db-server-5 received commit request clerk-63-trx-1
+DEBUG    db-server-8 received commit request clerk-28-trx-1
+DEBUG    clerk-63 -Committed clerk-63-trx-1 
+DEBUG    db-server-2 received commit request clerk-80-trx-1
+DEBUG    db-server-0 received commit request clerk-66-trx-1
+DEBUG    db-server-4 received commit request clerk-27-trx-1
+DEBUG    db-server-7 received commit request clerk-64-trx-1
+DEBUG    db-server-8 received commit request clerk-99-trx-1
+DEBUG    db-server-0 received commit request clerk-87-trx-1
+DEBUG    clerk-87 -Committed clerk-87-trx-1 
+DEBUG    db-server-2 received commit request clerk-57-trx-1
+DEBUG    db-server-3 received commit request clerk-41-trx-1
+DEBUG    db-server-3 received commit request clerk-15-trx-1
+DEBUG    db-server-3 received commit request clerk-8-trx-1
+DEBUG    db-server-5 received prepare request clerk-74-trx-1
+DEBUG    db-server-5 Validation successful for clerk-74-trx-1 - Prepare OK
+DEBUG    db-server-9 received commit request clerk-40-trx-1
+DEBUG    db-server-0 received commit request clerk-51-trx-1
+DEBUG    db-server-7 received prepare request clerk-53-trx-1
+DEBUG    db-server-7 Validation successful for clerk-53-trx-1 - Prepare OK
+DEBUG    clerk-53 -Received all prepare ok and sending commit to dict_keys(['db-server-4', 'db-server-2', 'db-server-1', 'db-server-3', 'db-server-7']) 
+DEBUG    db-server-6 received commit request clerk-10-trx-1
+DEBUG    db-server-0 received commit request clerk-96-trx-1
+DEBUG    db-server-3 received commit request clerk-28-trx-1
+DEBUG    clerk-28 -Committed clerk-28-trx-1 
+DEBUG    db-server-4 received commit request clerk-60-trx-1
+DEBUG    db-server-8 received prepare request clerk-77-trx-1
+DEBUG    clerk-60 -Committed clerk-60-trx-1 
+DEBUG    db-server-8 Validation successful for clerk-77-trx-1 - Prepare OK
+DEBUG    db-server-7 received commit request clerk-20-trx-1
+DEBUG    db-server-3 received commit request clerk-66-trx-1
+DEBUG    db-server-7 received commit request clerk-27-trx-1
+DEBUG    clerk-27 -Committed clerk-27-trx-1 
+DEBUG    db-server-4 received commit request clerk-98-trx-1
+DEBUG    db-server-9 received commit request clerk-64-trx-1
+DEBUG    db-server-4 received commit request clerk-99-trx-1
+DEBUG    db-server-6 received commit request clerk-41-trx-1
+DEBUG    db-server-9 received commit request clerk-57-trx-1
+DEBUG    db-server-2 received commit request clerk-18-trx-1
+DEBUG    db-server-4 received commit request clerk-84-trx-1
+DEBUG    db-server-6 received commit request clerk-8-trx-1
+DEBUG    db-server-1 received prepare request clerk-74-trx-1
+DEBUG    db-server-1 Validation successful for clerk-74-trx-1 - Prepare OK
+DEBUG    db-server-8 received commit request clerk-51-trx-1
+DEBUG    db-server-0 received commit request clerk-40-trx-1
+DEBUG    clerk-40 -Committed clerk-40-trx-1 
+DEBUG    db-server-3 received commit request clerk-10-trx-1
+DEBUG    db-server-6 received commit request clerk-39-trx-1
+DEBUG    db-server-1 received commit request clerk-68-trx-1
+DEBUG    clerk-68 -Committed clerk-68-trx-1 
+DEBUG    db-server-1 received commit request clerk-9-trx-1
+DEBUG    db-server-2 received prepare request clerk-77-trx-1
+DEBUG    db-server-2 Validation successful for clerk-77-trx-1 - Prepare OK
+DEBUG    db-server-3 received commit request clerk-20-trx-1
+DEBUG    db-server-3 received commit request clerk-80-trx-1
+DEBUG    clerk-80 -Committed clerk-80-trx-1 
+DEBUG    db-server-8 received commit request clerk-66-trx-1
+DEBUG    db-server-3 received commit request clerk-98-trx-1
+DEBUG    db-server-6 received commit request clerk-97-trx-1
+DEBUG    db-server-4 received commit request clerk-64-trx-1
+DEBUG    db-server-2 received commit request clerk-55-trx-1
+DEBUG    db-server-1 received commit request clerk-99-trx-1
+DEBUG    clerk-99 -Committed clerk-99-trx-1 
+DEBUG    db-server-5 received commit request clerk-41-trx-1
+DEBUG    db-server-1 received commit request clerk-57-trx-1
+DEBUG    clerk-57 -Committed clerk-57-trx-1 
+DEBUG    db-server-1 received commit request clerk-11-trx-1
+DEBUG    db-server-5 received commit request clerk-18-trx-1
+DEBUG    db-server-4 received commit request clerk-15-trx-1
+DEBUG    db-server-5 received commit request clerk-17-trx-1
+DEBUG    db-server-9 received commit request clerk-92-trx-1
+DEBUG    db-server-0 received commit request clerk-84-trx-1
+DEBUG    db-server-1 received commit request clerk-8-trx-1
+DEBUG    clerk-8 -Committed clerk-8-trx-1 
+DEBUG    db-server-9 received prepare request clerk-74-trx-1
+DEBUG    db-server-9 Validation successful for clerk-74-trx-1 - Prepare OK
+DEBUG    db-server-3 received commit request clerk-51-trx-1
+DEBUG    clerk-74 -Received all prepare ok and sending commit to dict_keys(['db-server-8', 'db-server-6', 'db-server-5', 'db-server-1', 'db-server-9']) 
+DEBUG    db-server-5 received commit request clerk-3-trx-1
+DEBUG    db-server-1 received commit request clerk-10-trx-1
+DEBUG    db-server-5 received commit request clerk-14-trx-1
+DEBUG    db-server-9 received commit request clerk-42-trx-1
+DEBUG    db-server-9 received commit request clerk-39-trx-1
+DEBUG    db-server-6 received commit request clerk-96-trx-1
+DEBUG    clerk-96 -Committed clerk-96-trx-1 
+DEBUG    db-server-5 received commit request clerk-9-trx-1
+DEBUG    db-server-1 received prepare request clerk-77-trx-1
+DEBUG    db-server-1 Validation successful for clerk-77-trx-1 - Prepare OK
+DEBUG    clerk-77 -Received all prepare ok and sending commit to dict_keys(['db-server-0', 'db-server-4', 'db-server-8', 'db-server-2', 'db-server-1']) 
+DEBUG    db-server-1 received commit request clerk-36-trx-1
+DEBUG    db-server-2 received commit request clerk-73-trx-1
+DEBUG    db-server-0 received commit request clerk-22-trx-1
+DEBUG    db-server-5 received commit request clerk-20-trx-1
+DEBUG    clerk-20 -Committed clerk-20-trx-1 
+DEBUG    db-server-4 received commit request clerk-66-trx-1
+DEBUG    clerk-66 -Committed clerk-66-trx-1 
+DEBUG    db-server-8 received commit request clerk-98-trx-1
+DEBUG    db-server-8 received commit request clerk-26-trx-1
+DEBUG    db-server-6 received commit request clerk-72-trx-1
+DEBUG    db-server-4 received commit request clerk-38-trx-1
+DEBUG    db-server-1 received commit request clerk-97-trx-1
+DEBUG    db-server-5 received commit request clerk-64-trx-1
+DEBUG    db-server-5 received commit request clerk-55-trx-1
+DEBUG    clerk-64 -Committed clerk-64-trx-1 
+DEBUG    db-server-5 received commit request clerk-29-trx-1
+DEBUG    clerk-29 -Committed clerk-29-trx-1 
+DEBUG    db-server-9 received commit request clerk-41-trx-1
+DEBUG    db-server-6 received commit request clerk-11-trx-1
+DEBUG    db-server-1 received commit request clerk-19-trx-1
+DEBUG    db-server-4 received commit request clerk-88-trx-1
+DEBUG    db-server-5 received commit request clerk-91-trx-1
+DEBUG    db-server-0 received commit request clerk-18-trx-1
+DEBUG    db-server-8 received commit request clerk-15-trx-1
+DEBUG    db-server-3 received commit request clerk-17-trx-1
+DEBUG    clerk-15 -Committed clerk-15-trx-1 
+DEBUG    clerk-17 -Committed clerk-17-trx-1 
+DEBUG    db-server-1 received commit request clerk-92-trx-1
+DEBUG    db-server-6 received commit request clerk-84-trx-1
+DEBUG    db-server-4 received commit request clerk-51-trx-1
+DEBUG    db-server-8 received commit request clerk-3-trx-1
+DEBUG    db-server-6 received commit request clerk-81-trx-1
+DEBUG    db-server-5 received commit request clerk-50-trx-1
+DEBUG    db-server-2 received commit request clerk-10-trx-1
+DEBUG    db-server-4 received commit request clerk-14-trx-1
+DEBUG    db-server-7 received commit request clerk-42-trx-1
+DEBUG    db-server-5 received commit request clerk-39-trx-1
+DEBUG    db-server-2 received commit request clerk-22-trx-1
+DEBUG    db-server-0 received commit request clerk-9-trx-1
+DEBUG    clerk-9 -Committed clerk-9-trx-1 
+DEBUG    db-server-8 received commit request clerk-36-trx-1
+DEBUG    db-server-1 received commit request clerk-73-trx-1
+DEBUG    clerk-36 -Committed clerk-36-trx-1 
+DEBUG    db-server-9 received commit request clerk-30-trx-1
+DEBUG    db-server-0 received commit request clerk-48-trx-1
+DEBUG    db-server-5 received commit request clerk-38-trx-1
+DEBUG    db-server-5 received commit request clerk-98-trx-1
+DEBUG    db-server-3 received commit request clerk-72-trx-1
+DEBUG    clerk-98 -Committed clerk-98-trx-1 
+DEBUG    db-server-8 received commit request clerk-2-trx-1
+DEBUG    db-server-9 received commit request clerk-97-trx-1
+DEBUG    clerk-97 -Committed clerk-97-trx-1 
+DEBUG    db-server-3 received commit request clerk-55-trx-1
+DEBUG    db-server-9 received commit request clerk-88-trx-1
+DEBUG    db-server-8 received commit request clerk-41-trx-1
+DEBUG    clerk-41 -Committed clerk-41-trx-1 
+DEBUG    db-server-2 received commit request clerk-11-trx-1
+DEBUG    db-server-4 received commit request clerk-19-trx-1
+DEBUG    db-server-7 received commit request clerk-26-trx-1
+DEBUG    db-server-6 received commit request clerk-94-trx-1
+DEBUG    db-server-8 received commit request clerk-91-trx-1
+DEBUG    db-server-3 received commit request clerk-18-trx-1
+DEBUG    clerk-18 -Committed clerk-18-trx-1 
+DEBUG    db-server-0 received commit request clerk-49-trx-1
+DEBUG    db-server-4 received commit request clerk-92-trx-1
+DEBUG    db-server-5 received commit request clerk-84-trx-1
+DEBUG    db-server-5 received commit request clerk-44-trx-1
+DEBUG    db-server-9 received commit request clerk-51-trx-1
+DEBUG    clerk-51 -Committed clerk-51-trx-1 
+DEBUG    db-server-3 received commit request clerk-3-trx-1
+DEBUG    db-server-8 received commit request clerk-81-trx-1
+DEBUG    db-server-6 received commit request clerk-50-trx-1
+DEBUG    db-server-7 received commit request clerk-10-trx-1
+DEBUG    clerk-10 -Committed clerk-10-trx-1 
+DEBUG    db-server-9 received commit request clerk-35-trx-1
+DEBUG    db-server-3 received commit request clerk-14-trx-1
+DEBUG    clerk-14 -Committed clerk-14-trx-1 
+DEBUG    db-server-5 received commit request clerk-42-trx-1
+DEBUG    db-server-7 received commit request clerk-39-trx-1
+DEBUG    db-server-8 received commit request clerk-22-trx-1
+DEBUG    db-server-5 received commit request clerk-90-trx-1
+DEBUG    db-server-6 received commit request clerk-73-trx-1
+DEBUG    db-server-6 received commit request clerk-25-trx-1
+DEBUG    db-server-0 received commit request clerk-30-trx-1
+DEBUG    db-server-4 received commit request clerk-48-trx-1
+DEBUG    db-server-3 received commit request clerk-61-trx-1
+DEBUG    db-server-7 received commit request clerk-38-trx-1
+DEBUG    db-server-1 received commit request clerk-72-trx-1
+DEBUG    clerk-72 -Committed clerk-72-trx-1 
+DEBUG    db-server-6 received commit request clerk-21-trx-1
+DEBUG    db-server-0 received commit request clerk-2-trx-1
+DEBUG    db-server-1 received commit request clerk-55-trx-1
+DEBUG    db-server-3 received commit request clerk-88-trx-1
+DEBUG    db-server-8 received commit request clerk-52-trx-1
+DEBUG    db-server-7 received commit request clerk-11-trx-1
+DEBUG    db-server-2 received commit request clerk-19-trx-1
+DEBUG    clerk-11 -Committed clerk-11-trx-1 
+DEBUG    db-server-5 received commit request clerk-26-trx-1
+DEBUG    db-server-7 received commit request clerk-5-trx-1
+DEBUG    db-server-2 received commit request clerk-94-trx-1
+DEBUG    db-server-1 received commit request clerk-91-trx-1
+DEBUG    db-server-3 received commit request clerk-49-trx-1
+DEBUG    db-server-7 received commit request clerk-92-trx-1
+DEBUG    clerk-49 -Committed clerk-49-trx-1 
+DEBUG    clerk-92 -Committed clerk-92-trx-1 
+DEBUG    db-server-7 received commit request clerk-84-trx-1
+DEBUG    db-server-2 received commit request clerk-44-trx-1
+DEBUG    clerk-84 -Committed clerk-84-trx-1 
+DEBUG    db-server-4 received commit request clerk-3-trx-1
+DEBUG    db-server-7 received commit request clerk-95-trx-1
+DEBUG    db-server-4 received commit request clerk-81-trx-1
+DEBUG    db-server-8 received commit request clerk-50-trx-1
+DEBUG    clerk-81 -Committed clerk-81-trx-1 
+DEBUG    db-server-1 received commit request clerk-71-trx-1
+DEBUG    db-server-6 received commit request clerk-35-trx-1
+DEBUG    db-server-0 received commit request clerk-42-trx-1
+DEBUG    db-server-2 received commit request clerk-39-trx-1
+DEBUG    clerk-42 -Committed clerk-42-trx-1 
+DEBUG    clerk-39 -Committed clerk-39-trx-1 
+DEBUG    db-server-9 received commit request clerk-22-trx-1
+DEBUG    db-server-9 received commit request clerk-76-trx-1
+DEBUG    db-server-4 received commit request clerk-90-trx-1
+DEBUG    db-server-7 received commit request clerk-73-trx-1
+DEBUG    clerk-73 -Committed clerk-73-trx-1 
+DEBUG    db-server-7 received commit request clerk-25-trx-1
+DEBUG    db-server-7 received commit request clerk-30-trx-1
+DEBUG    db-server-8 received commit request clerk-23-trx-1
+DEBUG    db-server-8 received commit request clerk-48-trx-1
+DEBUG    db-server-4 received commit request clerk-45-trx-1
+DEBUG    db-server-9 received commit request clerk-61-trx-1
+DEBUG    db-server-0 received commit request clerk-38-trx-1
+DEBUG    db-server-1 received commit request clerk-21-trx-1
+DEBUG    db-server-2 received commit request clerk-46-trx-1
+DEBUG    db-server-9 received commit request clerk-2-trx-1
+DEBUG    db-server-6 received commit request clerk-55-trx-1
+DEBUG    clerk-55 -Committed clerk-55-trx-1 
+DEBUG    db-server-7 received commit request clerk-88-trx-1
+DEBUG    db-server-9 received commit request clerk-75-trx-1
+DEBUG    db-server-7 received commit request clerk-52-trx-1
+DEBUG    db-server-0 received commit request clerk-86-trx-1
+DEBUG    db-server-5 received commit request clerk-19-trx-1
+DEBUG    clerk-19 -Committed clerk-19-trx-1 
+DEBUG    db-server-9 received commit request clerk-26-trx-1
+DEBUG    db-server-3 received commit request clerk-5-trx-1
+DEBUG    db-server-2 received commit request clerk-37-trx-1
+DEBUG    db-server-5 received commit request clerk-94-trx-1
+DEBUG    db-server-3 received commit request clerk-91-trx-1
+DEBUG    clerk-91 -Committed clerk-91-trx-1 
+DEBUG    db-server-1 received commit request clerk-59-trx-1
+DEBUG    db-server-6 received commit request clerk-44-trx-1
+DEBUG    clerk-44 -Committed clerk-44-trx-1 
+DEBUG    db-server-8 received commit request clerk-69-trx-1
+DEBUG    db-server-9 received commit request clerk-3-trx-1
+DEBUG    clerk-3 -Committed clerk-3-trx-1 
+DEBUG    db-server-4 received commit request clerk-53-trx-1
+DEBUG    db-server-6 received commit request clerk-95-trx-1
+DEBUG    db-server-9 received commit request clerk-50-trx-1
+DEBUG    clerk-50 -Committed clerk-50-trx-1 
+DEBUG    db-server-8 received commit request clerk-74-trx-1
+DEBUG    db-server-5 received commit request clerk-71-trx-1
+DEBUG    db-server-4 received commit request clerk-35-trx-1
+DEBUG    db-server-0 received commit request clerk-77-trx-1
+DEBUG    db-server-1 received commit request clerk-22-trx-1
+DEBUG    db-server-2 received commit request clerk-76-trx-1
+DEBUG    clerk-22 -Committed clerk-22-trx-1 
+DEBUG    db-server-6 received commit request clerk-90-trx-1
+DEBUG    db-server-9 received commit request clerk-25-trx-1
+DEBUG    db-server-8 received commit request clerk-30-trx-1
+DEBUG    db-server-6 received commit request clerk-23-trx-1
+DEBUG    db-server-1 received commit request clerk-48-trx-1
+DEBUG    clerk-48 -Committed clerk-48-trx-1 
+DEBUG    db-server-8 received commit request clerk-45-trx-1
+DEBUG    db-server-5 received commit request clerk-61-trx-1
+DEBUG    db-server-2 received commit request clerk-38-trx-1
+DEBUG    clerk-38 -Committed clerk-38-trx-1 
+DEBUG    db-server-8 received commit request clerk-21-trx-1
+DEBUG    db-server-5 received commit request clerk-46-trx-1
+DEBUG    db-server-6 received commit request clerk-2-trx-1
+DEBUG    clerk-2 -Committed clerk-2-trx-1 
+DEBUG    db-server-0 received commit request clerk-88-trx-1
+DEBUG    clerk-88 -Committed clerk-88-trx-1 
+DEBUG    db-server-1 received commit request clerk-75-trx-1
+DEBUG    db-server-0 received commit request clerk-52-trx-1
+DEBUG    db-server-9 received commit request clerk-86-trx-1
+DEBUG    db-server-6 received commit request clerk-26-trx-1
+DEBUG    clerk-26 -Committed clerk-26-trx-1 
+DEBUG    db-server-4 received commit request clerk-5-trx-1
+DEBUG    db-server-7 received commit request clerk-37-trx-1
+DEBUG    db-server-3 received commit request clerk-94-trx-1
+DEBUG    clerk-94 -Committed clerk-94-trx-1 
+DEBUG    db-server-9 received commit request clerk-59-trx-1
+DEBUG    db-server-3 received commit request clerk-69-trx-1
+DEBUG    db-server-2 received commit request clerk-53-trx-1
+DEBUG    db-server-0 received commit request clerk-95-trx-1
+DEBUG    db-server-6 received commit request clerk-74-trx-1
+DEBUG    db-server-4 received commit request clerk-71-trx-1
+DEBUG    db-server-2 received commit request clerk-35-trx-1
+DEBUG    db-server-4 received commit request clerk-77-trx-1
+DEBUG    clerk-35 -Committed clerk-35-trx-1 
+DEBUG    db-server-6 received commit request clerk-76-trx-1
+DEBUG    db-server-2 received commit request clerk-90-trx-1
+DEBUG    clerk-90 -Committed clerk-90-trx-1 
+DEBUG    db-server-0 received commit request clerk-25-trx-1
+DEBUG    clerk-25 -Committed clerk-25-trx-1 
+DEBUG    db-server-3 received commit request clerk-30-trx-1
+DEBUG    clerk-30 -Committed clerk-30-trx-1 
+DEBUG    db-server-1 received commit request clerk-23-trx-1
+DEBUG    db-server-6 received commit request clerk-45-trx-1
+DEBUG    db-server-6 received commit request clerk-61-trx-1
+DEBUG    db-server-0 received commit request clerk-21-trx-1
+DEBUG    db-server-8 received commit request clerk-46-trx-1
+DEBUG    db-server-2 received commit request clerk-75-trx-1
+DEBUG    db-server-1 received commit request clerk-52-trx-1
+DEBUG    clerk-52 -Committed clerk-52-trx-1 
+DEBUG    db-server-4 received commit request clerk-86-trx-1
+DEBUG    db-server-2 received commit request clerk-5-trx-1
+DEBUG    db-server-6 received commit request clerk-37-trx-1
+DEBUG    db-server-0 received commit request clerk-59-trx-1
+DEBUG    db-server-5 received commit request clerk-69-trx-1
+DEBUG    db-server-1 received commit request clerk-53-trx-1
+DEBUG    db-server-8 received commit request clerk-95-trx-1
+DEBUG    db-server-5 received commit request clerk-74-trx-1
+DEBUG    clerk-95 -Committed clerk-95-trx-1 
+DEBUG    db-server-6 received commit request clerk-71-trx-1
+DEBUG    db-server-8 received commit request clerk-77-trx-1
+DEBUG    clerk-71 -Committed clerk-71-trx-1 
+DEBUG    db-server-3 received commit request clerk-76-trx-1
+DEBUG    clerk-76 -Committed clerk-76-trx-1 
+DEBUG    db-server-4 received commit request clerk-23-trx-1
+DEBUG    clerk-23 -Committed clerk-23-trx-1 
+DEBUG    db-server-0 received commit request clerk-45-trx-1
+DEBUG    db-server-2 received commit request clerk-61-trx-1
+DEBUG    clerk-61 -Committed clerk-61-trx-1 
+DEBUG    db-server-2 received commit request clerk-21-trx-1
+DEBUG    db-server-4 received commit request clerk-46-trx-1
+DEBUG    clerk-21 -Committed clerk-21-trx-1 
+DEBUG    db-server-0 received commit request clerk-75-trx-1
+DEBUG    db-server-8 received commit request clerk-86-trx-1
+DEBUG    db-server-0 received commit request clerk-5-trx-1
+DEBUG    clerk-5 -Committed clerk-5-trx-1 
+DEBUG    db-server-9 received commit request clerk-37-trx-1
+DEBUG    clerk-37 -Committed clerk-37-trx-1 
+DEBUG    db-server-5 received commit request clerk-59-trx-1
+DEBUG    db-server-4 received commit request clerk-69-trx-1
+DEBUG    clerk-69 -Committed clerk-69-trx-1 
+DEBUG    db-server-3 received commit request clerk-53-trx-1
+DEBUG    db-server-1 received commit request clerk-74-trx-1
+DEBUG    db-server-2 received commit request clerk-77-trx-1
+DEBUG    db-server-2 received commit request clerk-45-trx-1
+DEBUG    clerk-45 -Committed clerk-45-trx-1 
+DEBUG    db-server-7 received commit request clerk-46-trx-1
+DEBUG    db-server-4 received commit request clerk-75-trx-1
+DEBUG    clerk-46 -Committed clerk-46-trx-1 
+DEBUG    clerk-75 -Committed clerk-75-trx-1 
+DEBUG    db-server-7 received commit request clerk-86-trx-1
+DEBUG    clerk-86 -Committed clerk-86-trx-1 
+DEBUG    db-server-4 received commit request clerk-59-trx-1
+DEBUG    clerk-59 -Committed clerk-59-trx-1 
+DEBUG    db-server-7 received commit request clerk-53-trx-1
+DEBUG    clerk-53 -Committed clerk-53-trx-1 
+DEBUG    db-server-9 received commit request clerk-74-trx-1
+DEBUG    db-server-1 received commit request clerk-77-trx-1
+DEBUG    clerk-74 -Committed clerk-74-trx-1 
+DEBUG    clerk-77 -Committed clerk-77-trx-1 
