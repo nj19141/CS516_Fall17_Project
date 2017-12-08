@@ -42,16 +42,13 @@ class Server(Actor):
 
     def receiveMessage(self, msg, sender):
         if isinstance(msg, Server.Objects):
-            logging.debug("%s received read object request for %s", self.globalName, msg.transaction.read_set.keys())
+            # logging.debug("%s received read object request for %s", self.globalName, msg.transaction.read_set.keys())
             self.send(sender, self.get_objects(msg))
         elif isinstance(msg, Server.Prepare):
-            logging.debug("%s received prepare request %s", self.globalName,msg.transaction.tid)
             self.send(sender, self.prepare_trx(msg))
         elif isinstance(msg, Server.Commit):
-            logging.debug("%s received commit request %s", self.globalName, msg.transaction.tid)
             self.send(sender, self.commit_trx(msg))
         elif isinstance(msg, Server.Abort):
-            logging.debug("%s received abort request %s", self.globalName, msg.transaction.tid)
             self.send(sender, self.abort_trx(msg))
         elif isinstance(msg, Server.View):
             logging.debug("Server View  of %s", self.globalName)
@@ -64,7 +61,7 @@ class Server(Actor):
             answer[oid] = self.store[oid][:-1]
             if oid not in self.cache_table:
                 self.cache_table[oid] = []
-            # self.cache_table[oid].append(clerk)
+            self.cache_table[oid].append(msg.transaction.clerk)
         return answer
 
     def truncate_history(self):
@@ -74,15 +71,17 @@ class Server(Actor):
             self.history.remove(item)
 
     def prepare_trx(self, msg: Prepare) -> bool:
-        self.truncate_history()
+        # self.truncate_history()
         trx = msg.transaction
         position = self.history.bisect_key_left(trx.timestamp)
         earlier_trxs, later_trxs = self.history[:position], \
                                    self.history[position:]
 
+        # logging.warning("validating %s, position in timeline: %d, earlier %s, later %s", trx.tid, position, earlier_trxs, later_trxs)
+
         # validate against earlier transactions
         for earlier_t in earlier_trxs:
-            read_set_oids = set(_[0] for _ in trx.read_set)
+            read_set_oids = set(trx.read_set.keys())
             if earlier_t.write_set.keys() & read_set_oids:
                 logging.debug("%s -Validation failed for %s - Against earlier transactions - Prepare NO", self.globalName, trx.tid)
                 return False
@@ -92,14 +91,16 @@ class Server(Actor):
         for oid, shadow in trx.read_set.items():
             store_version = self.store[oid][1]
             r_stamp = self.store[oid][2]
+            # if shadow[1] != store_version:
             if trx.timestamp < r_stamp or shadow[1] != store_version:
-                logging.debug("%s -Validation failed for %s - transaction timestamp < rstamp - Prepare NO", self.globalName, trx.tid)
+                logging.debug("%s -conflict, %s, %s", self.globalName, shadow, self.store[oid])
+                # logging.debug("%s -Validation failed for %s - transaction timestamp < rstamp - Prepare NO", self.globalName, trx.tid)
                 return False
 
         # validate against later transactions
         for later_t in later_trxs:
-            later_t_read_set_oids = set(_[0] for _ in later_t.read_set)
-            trx_read_set_oids = set(_[0] for _ in trx.read_set)
+            later_t_read_set_oids = set(later_t.read_set.keys())
+            trx_read_set_oids = set(trx.read_set.keys())
 
             if trx.write_set.keys() & later_t_read_set_oids or \
                trx_read_set_oids & later_t.write_set.keys():
@@ -113,6 +114,7 @@ class Server(Actor):
 
     def commit_trx(self, msg: Commit) -> bool:
         trx = msg.transaction
+        logging.debug("%s -Committing %s with \nread_set: %s\nwrite_set: %s", self.globalName, trx.tid, trx.read_set.keys(), trx.write_set.keys())
         try:
             index = self.history.index(trx)
             if self.history[index].status != "P":
@@ -128,18 +130,19 @@ class Server(Actor):
         for oid, val in trx.write_set.items():
             store_version = self.store[oid][1]
             self.store[oid] = (val, store_version + 1, trx.timestamp)
-            # for clerk_actor in self.cache_table.get(oid, []):
-            # self.send(clerk_actor, Server.CacheInvalidate(oid))
-            # self.cache_table[oid].clear()
+            for clerk in self.cache_table.get(oid, []):
+                logging.debug("%s -Sending cache invalidation for %d", self.globalName, oid)
+                self.send(clerk, Server.CacheInvalidate(oid))
+            self.cache_table[oid].clear()
 
         trx.status = "C"
         self.history.remove(trx)
-        #logging.debug("Transaction committed successfully")
         return True
 
     def abort_trx(self, msg: Abort) -> bool:
+        logging.debug("%s - Aborting transaction %s", self.globalName, msg.transaction.tid)
+        logging.debug("%s - history is: %s", self.globalName, self.history)
         self.history.remove(msg.transaction)
-        logging.debug("%s - Aborted transaction %s", self.globalName, msg.transaction.tid)
         return True
 
 
@@ -171,5 +174,5 @@ class DirectoryServer(Actor):
                 self.send(listener, DirectoryServer.WhoServes(self.server_map))
             self.send(sender, True)
         elif isinstance(msg, DirectoryServer.GetTimestamp):
-            logging.debug("Getting TimeStamp for %s", self.globalName)
+            logging.debug("Getting simeStamp for %s", self.globalName)
             self.send(sender, round(time.time() * 1000))

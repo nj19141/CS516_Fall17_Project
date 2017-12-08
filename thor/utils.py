@@ -25,6 +25,8 @@ class Aggregator(Actor):
             #logging.debug("%s scattering %s for %s", self.globalName, msg.msg_class.__name__, msg.trx.tid)
             self.trx = msg.trx
             self.asker = sender
+            if not msg.server_map:
+                self.send(self.asker, Aggregator.Gather(self.trx, self.answers))
 
             for server_name, oids in msg.server_map.items():
                 server = self.createActor(None, globalName=server_name)
@@ -34,7 +36,7 @@ class Aggregator(Actor):
                      for k, v in msg.trx.read_set.items() if k in oids},
                     {k: v
                      for k, v in msg.trx.write_set.items()
-                     if k in oids}, msg.trx.timestamp)
+                     if k in oids}, msg.trx.timestamp, msg.trx.clerk)
                 self.asked.append(server)
                 self.send(server, msg.msg_class(trx))
 
@@ -49,12 +51,19 @@ class Aggregator(Actor):
 
 
 class Transaction:
-    def __init__(self, tid, read_set, write_set, timestamp):
+    def __init__(self, tid, read_set, write_set, timestamp, clerk):
         self.tid = tid
         self.read_set = read_set
         self.write_set = write_set
         self.timestamp = timestamp
         self.status = "R"
+        self.clerk = clerk
 
     def __hash__(self):
         return self.tid.__hash__()
+
+    def __eq__(self, other):
+        return self.tid == other.tid
+
+    def __str__(self):
+        return self.tid
