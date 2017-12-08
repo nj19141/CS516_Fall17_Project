@@ -10,8 +10,8 @@ if __name__ == '__main__':
     start(sys_base)
     procs = []
 
-    for i in range(0, 100):
-        proc = Process(target=spawn, args=(sys_base, i))
+    for i in range(0, 5):
+        proc = Process(target=spawn, args=(sys_base, i+1))
         procs.append(proc)
         proc.start()
 

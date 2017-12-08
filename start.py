@@ -44,7 +44,7 @@ def start(sys_base):
     asys = ActorSystem(sys_base, logDefs=logcfg)
     ds = asys.createActor(DirectoryServer, globalName="directory-server")
     db_servers = {}
-    for i in range(0, 10):
+    for i in range(0, 5):
         name = "db-server-%d" % i
         db_servers[name] = asys.createActor(Server, globalName=name)
 
